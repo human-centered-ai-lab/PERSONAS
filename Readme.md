@@ -5,6 +5,10 @@ In user-centered design of software applications, the **_personas_ method** is u
 
 When it comes to artificial intelligence (AI) applications, often _causability_ <sup name="a1">[[1]](#footnote1)</sup> is added to the users' needs: Specifically in high-stake domains, such as for example in medicine,  users need to understand the rationale and certainty underlying the results delivered by an AI application. Therefore, it is essential that AI applications are designed and developed with the users in mind, in order to achieve useful AI solutions with high usability and causability.
 
+In principle there exist two fundamentally different approaches for creating personas: data-driven persona development and manual persona development. However, data-driven persona development needs large amounts of user data (big data) to be useful, and thus for many use cases manual persona development using merely qualitative data is a better choice <sup name="a2">[[2]](#footnote2)</sup>. 
+In this repository we describe our approach for manual persona development.
+
+
 In order to support user-centered design of AI applications, we have developed a 5-steps approach for developing personas for AI. Furthermore, based on our experience from practical implementation of the personas development process, we have created free material and tools to facilitate development of personas for AI. This repository "Personas for AI" contains:
 * a step-by-step guide for personas development
 * illustrative examples from practical implementation in the field of Computational Pathology
@@ -35,6 +39,7 @@ We have elaborated a 5-steps process for the development of user personas for AI
 ## Step 2: Collection of Information about the (Potential) Users
 **Aim:** The aim of this task is twofold: (1) Get to know (potential) users personally --> Learn about their goals, motivations, frustrations, hopes, skills, education, knowledge, personal traits and aspirations. (2) Get to know (potential) use cases --> Learn about the users' tasks and find out in which context they would probably use the AI application.
 
+**Method:** We recommend to use qualitative methods such as interviews and surveys for information collection. 
 
 ---
 ---
@@ -51,3 +56,6 @@ Parts of this work have received funding from the European Union's Horizon 2020 
 # Further Reading
 
 <a name="footnote1">[[1]](#a1)</a> A. Holzinger, Explainable AI and multi-modal causability in medicine, i-com19(3). [doi:10.1515/icom-2020-0024](https://doi.org/10.1515/icom-2020-0024)
+
+<a name="footnote2">[[2]](#a2)</a> J. Salminen, K. Guan, S.-G. Jung, B. J. Jansen, A survey of 15
+years of data-driven persona development, International Journal of Human Computer Interaction (2021) 1-24 [doi:10.1080/10447318.2021.1908670](https://doi.org/10.1080/10447318.2021.1908670)
