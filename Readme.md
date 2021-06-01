@@ -29,8 +29,8 @@ We have elaborated a 5-steps process for the development of user personas for AI
 **Method:** We recommend to use the well-known method of _brainstorming_ for collecting ideas regarding potential user groups. After the brainstorming session discuss and evaluate the results, and agree on a list of user groups, to form the starting point for the creation of personas.
 
 **Material:**
-* Impulses for Brainstorming
-* Example: User Groups for AI Application in Computational Pathology
+* [Impulses for Brainstorming](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/brainstorming-impulses.pdf)
+* [Example: User Groups for AI Application in Computational Pathology](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/example_identified-user-groups.pdf)
 
 ## Step 2: Collection of Information about the (Potential) Users
 **Aim:** The aim of this task is twofold: (1) Get to know (potential) users personally --> Learn about their goals, motivations, frustrations, hopes, skills, education, knowledge, personal traits and aspirations. (2) Get to know (potential) use cases --> Learn about the users' tasks and find out in which context they would probably use the AI application.
