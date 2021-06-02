@@ -70,6 +70,18 @@ In a business domain, often you can retrieve valuable information about a specif
 * [Example Questionnaire - 'direct' and 'indirect view'](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/example_questionnaire-pathologist.pdf)
 
   
+## Step3: Consolidation \& Analysis of the Collected Information
+**Aim:** The aim of this task is threefold: (1) Get an overview of the information collected. (2) Distill the important findings from the heap of information collected. (3) Decide, based on these findings, which personas to develop.
+
+**Method:** 
+* _Central Information Storage:_ First, to get an overview of the information collected, gather all collected information in one place. Depending on the kind and amount of information collected, such a central information storage could for example be a database or a simple spreadsheet.
+* _Visualisation Diagrams:_ Visualisation diagrams (e.g. barcharts, scatterplots...) support consolidation and analysis of structured information, such as categorical or numerical information obtained via closed questions in an interview or questionnaire. 
+* _Affinity Diagramming:_ Affinity diagramming supports consolidation and analysation of unstructured information, such as for example statements obtained via open questions in an interview or questionnaire. To create an Affinity Diagram first the collected information is split into single aspects. Then all these single pieces of information are grouped in clusters based on their content relationships, and finally each of these clusters is given a label summarising the information contained in that specific cluster. 
+* _Identify Subgroups of Users:_ The visualisations (barcharts, scatterplots,... or Affinity diagram) may show indications that the user group is split into several subgroups regarding certain aspects, such as for example personal traints, education, working style, attitudes regarding new technologies, etc. For all aspects, where the identified differences may have influence on the usage of the AI application, it must be taken care that each of these subgroups of users is represented by a distinct persona.
+
+**Practical Hints:** 
+* _Keep information traceable to its source:_  
+For every piece of information preserve the connection to its origin during the whole process of organising, structuring, splitting, combining and condensing of the information. This can for example be done by assigning a brief ID to each information source and marking the information with the respective ID of its source (e.g. interviewee 1 gets the ID i001 and this ID is appended to all statements from interviewee 1).  This will help to find out grouping characteristics later on in the project. Furthermore, knowledge about the source of the information can also increase people's confidence and commitment later on, when working with a persona.
 
 
 ---
