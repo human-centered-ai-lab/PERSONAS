@@ -5,11 +5,11 @@ In user-centered design of software applications, the **_personas_ method** is u
 
 When it comes to artificial intelligence (AI) applications, often _causability_ <sup name="a1">[[1]](#footnote1)</sup> is added to the users' needs: Specifically in high-stake domains, such as for example in medicine,  users need to understand the rationale and certainty underlying the results delivered by an AI application. Therefore, it is essential that AI applications are designed and developed with the users in mind, in order to achieve useful AI solutions with high usability and causability.
 
-In principle there exist two fundamentally different approaches for creating personas: data-driven persona development and manual persona development. However, data-driven persona development needs large amounts of user data (big data) to be useful, and thus for many use cases manual persona development using merely qualitative data is a better choice <sup name="a2">[[2]](#footnote2)</sup>. 
+In principle there exist two fundamentally different approaches for creating personas: data-driven persona development and manual persona development. Data-driven persona development needs large amounts of user data (big data) to be useful, and thus for many use cases manual persona development using merely qualitative data is a better choice <sup name="a2">[[2]](#footnote2)</sup>. 
 In this repository we describe our approach for manual persona development.
 
 
-In order to support user-centered design of AI applications, we have developed a 5-steps approach for developing personas for AI. Furthermore, based on our experience from practical implementation of the personas development process, we have created free material and tools to facilitate development of personas for AI. This repository "Personas for AI" contains:
+In order to support user-centered design of AI applications, we have developed a 5-steps approach for developing user personas for AI. Furthermore, based on our experience from practical implementation of the personas development process, we have created free material and tools to facilitate development of user personas for AI. This repository "Personas for AI" contains:
 * a step-by-step guide for personas development
 * illustrative examples from practical implementation in the field of Computational Pathology
 * clear descriptions of the recommended methods
@@ -37,9 +37,25 @@ We have elaborated a 5-steps process for the development of user personas for AI
 * [Example: User Groups for AI Application in Computational Pathology](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/example_identified-user-groups.pdf)
 
 ## Step 2: Collection of Information about the (Potential) Users
-**Aim:** The aim of this task is twofold: (1) Get to know (potential) users personally --> Learn about their goals, motivations, frustrations, hopes, skills, education, knowledge, personal traits and aspirations. (2) Get to know (potential) use cases --> Learn about the users' tasks and find out in which context they would probably use the AI application.
+**Aim:** The aim of this task is twofold: (1) Get to know (potential) users personally --> Learn about their goals, motivations, frustrations, hopes, skills, education, knowledge, personal traits and aspirations. (2) Get to know (potential) use cases --> Learn about the users' tasks and find out in which context the AI application would probably be used. 
+The goal is to collect relevant information regarding the following five areas:
+* education, experience 
+* tasks, workflows, work context
+* skills, knowledge
+* motivations, frustrations
+* personal traits, values, learning style
 
-**Method:** We recommend to use qualitative methods such as interviews and surveys for information collection. 
+**Method:** Qualitative methods such as interviews and surveys are used for information collection. There are different approaches possible:
+* ***Approach 1: Comprehensive Interviews***  
+In this approach, the aim is to cover all five information areas necessary for the creation of personas within a user interview. Ideally, ethnographic interviews or contextual inquiries are conducted with users in that place, where they would use the AI application. <sup name="a3">[[3]](#footnote3)</sup> Such a setting makes it possible to get a feeling of the context and framework conditions and observe the user 'in action'. However, if such on-site interviews and observations are not possible, also one-on-one interviews in another location or remote interviews via video/phone call can be used for information collection.   
+IMPORTANT: Always use open questions and avoid leading questions, so that the interviewee is not inadvertently biased.
+* ***Approach 2: Comprehensive Questionnaires***  
+In this approach, the aim is to obtain all information necessary for the creation of personas through a survey. On the one hand, it might be tempting to try to mimic an interview and thus design a questionnaire with lots of open questions. However, experience shows that it is difficult to collect a sufficient amount of responses to such a questionnaire, since people do not like to spend a lot of time and write much text when filling in a questionnaire. On the other hand, by reducing the number of open questions usually also the amount of information that can be collected with the questionnaire is reduced. Therefore, it is difficult to implement this approach in practice, and we would not recommend to choose this approach.
+* ***Approach 3: Shorter Questionnaires + Additional Research***  
+In this approach, only part of the necessary information is collected via questionnaires, and additional research is done to fill the information gaps. The aim is to make the questionnaire short and easy to fill in, to obtain a high amount of responses to this survey. To achieve this, wherever possible instead of open questions multiple choice questions or rating of statements are used, and in addition, also the scope of the questionnaire is restricted to those areas, where direct user input is indispensable. Information regarding 
+
+**Practical Hints:** When collecting user information and data, concentrate on those aspects, which are (or might be) relevant with respect to the AI application. A persona does not describe the whole person, but the focus is put only on the relevant aspects (such as relevant attitudes, skills...) and specific context related to the usage of the AI application. For example, in the context of a specific AI application it might be relevant, whether or not the user plays the piano, has got a dog, likes hiking or is married, while in the context of another AI application these aspects might not be relevant.
+
 
 ---
 ---
@@ -59,3 +75,6 @@ Parts of this work have received funding from the European Union's Horizon 2020 
 
 <a name="footnote2">[[2]](#a2)</a> J. Salminen, K. Guan, S.-G. Jung, B. J. Jansen, A survey of 15
 years of data-driven persona development, International Journal of Human Computer Interaction (2021) 1-24 [doi:10.1080/10447318.2021.1908670](https://doi.org/10.1080/10447318.2021.1908670)
+
+<a name="footnote3">[[3]](#a3)</a> A. Cooper, R. Reimann, About Face 2.0 - The Essentials of Interaction
+Design, John Wiley & Sons, 2003. Published online 2006: [https://flylib.com/books/en/2.153.1](https://flylib.com/books/en/2.153.1/)
