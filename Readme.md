@@ -65,12 +65,12 @@ In interviews and questionnaires members of a user group are asked about their _
 In a business domain, often you can retrieve valuable information about a specific job/role from job descriptions posted on websites of educational institutions or from job advertisements posted by companies. Interesting information regarding education, skills and careers of people working in a specific job/role can be retrieved from social media profiles. This information can be used to complete/complement information gained from members of the user group through interviews or questionnaires.
 
 **Material:**  
-* Example Interview Guidelines
-* Example Questionnaire ('indirect view')
-* Example Questionnaire ('direct' and 'indirect view')
+* [Example Interview Guidelines](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/example_interview-guideline-QM-diagnostics-institute.pdf)
+* [Example Questionnaire - 'indirect view'](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/example_questionnaire-salesrepresentative.pdf)
+* [Example Questionnaire - 'direct' and 'indirect view'](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/example_questionnaire-pathologist.pdf)
 
   
-  
+
 
 ---
 ---
