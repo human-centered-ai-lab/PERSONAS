@@ -84,7 +84,9 @@ In a business domain, often you can retrieve valuable information about a specif
 For every piece of information preserve the connection to its origin during the whole process of organising, structuring, splitting, combining and condensing of the information. This can for example be done by assigning a brief ID to each information source and marking the information with the respective ID of its source (e.g. interviewee 1 gets the ID i001 and this ID is appended to all statements from interviewee 1).  This will help to find out grouping characteristics later on in the project. Furthermore, knowledge about the source of the information can also increase people's confidence and commitment later on, when working with a persona.
 
 **Material:**
-* Practical Tips for Affinity Diagramming
+* [Practical Tips for Affinity Diagramming](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/practical-tips-for-affinity-diagramming.pdf)
+
+
 
 
 
