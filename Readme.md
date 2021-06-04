@@ -77,7 +77,7 @@ In a business domain, often you can retrieve valuable information about a specif
 * _Central Information Storage:_ First, to get an overview of the information collected, gather all collected information in one place. Depending on the kind and amount of information collected, such a central information storage could for example be a database or a simple spreadsheet.
 * _Visualisation Diagrams:_ Visualisation diagrams (e.g. barcharts, scatterplots...) support consolidation and analysis of structured information, such as categorical or numerical information obtained via closed questions in an interview or questionnaire. 
 * _Affinity Diagramming:_ Affinity diagramming supports consolidation and analysation of unstructured information, such as for example statements obtained via open questions in an interview or questionnaire. To create an Affinity Diagram first the collected information is split into single aspects. Then all these single pieces of information are grouped in clusters based on their content relationships, and finally each of these clusters is given a label summarising the information contained in that specific cluster. 
-* _Identify Subgroups of Users:_ The visualisations (barcharts, scatterplots,... or Affinity diagram) may show indications that the user group is split into several subgroups regarding certain aspects, such as for example personal traints, education, working style, attitudes regarding new technologies, etc. For all aspects, where the identified differences may have influence on the usage of the AI application, it must be taken care that each of these subgroups of users is represented by a distinct persona.
+* _Identify Subgroups of Users:_ The visualisations (barcharts, scatterplots,... or Affinity diagram) may show indications that the user group is split into several subgroups regarding certain aspects, such as for example personal traits, education, working style, attitudes regarding new technologies, etc. --> For all aspects, where the identified differences may have influence on the usage of the AI application, it must be taken care that each of these subgroups of users is represented by a distinct persona.
 
 **Practical Hints:** 
 * _Keep information traceable to its source:_  
@@ -87,8 +87,22 @@ For every piece of information preserve the connection to its origin during the 
 * [Practical Tips for Affinity Diagramming](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/practical-tips-for-affinity-diagramming.pdf)
 
 
+## Step 4: Creating the Foundation for a Persona
+**Aim:** The aim of this task is to gather all information for a specific persona in a structured way. 
 
+**Method:** To achieve this aim, a _Foundation Document_ is created for each persona. The foundation document contains all information about a persona in a structured way. The foundation document serves two purposes: (1) The structured representation of all the information collected for a persona facilitates checking for completeness --> If important pieces of information for a persona are missing, additional research can be done to fill these gaps. (2) The foundation document is the basis for any further usage of the persona, such as for example visualisation of the persona in a persona-sheet (as described in the next step), or elaboration of use cases and scenarios for the persona.
 
+In the literature, there are many different templates and structures proposed for persona foundation documents. We have structured the foundation documents created for user personas of AI applications in computational pathology into the following sections:
+* work (tasks, workflows, context)
+* education/career
+* knowledge/skills
+* personal traits
+* motivational factors
+* frustrations/hurdles
+* goals/values
+
+**Material:**
+* Example: Foundation Document for Persona "Quality Manager at Diagnostics Institute"
 
 ---
 ---
