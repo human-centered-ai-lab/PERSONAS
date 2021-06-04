@@ -3,7 +3,7 @@
 
 In user-centered design of software applications, the **_personas_ method** is used to keep design and development of the product focused on the users' needs, abilities and preferences in order to create useful products which are usable easily. 
 
-When it comes to artificial intelligence (AI) applications, often _causability_ <sup name="a1">[[1]](#footnote1)</sup> is added to the users' needs: Specifically in high-stake domains, such as for example in medicine,  users need to understand the rationale and certainty underlying the results delivered by an AI application. Therefore, it is essential that AI applications are designed and developed with the users in mind, in order to achieve useful AI solutions with high usability and causability.
+When it comes to artificial intelligence (AI) applications, often _causability_ <sup name="a1">[[1]](#footnote1)</sup> is added to the users' needs: Specifically in high-stake domains, such as for example in medicine,  users need to understand the rationale and certainty underlying the results delivered by an AI application. Therefore, **it is essential that AI applications are designed and developed with the users in mind**, in order to achieve useful AI solutions with high usability and causability.
 
 In principle there exist two fundamentally different approaches for creating personas: data-driven persona development and manual persona development. Data-driven persona development needs large amounts of user data (big data) to be useful, and thus for many use cases manual persona development using merely qualitative data is a better choice <sup name="a2">[[2]](#footnote2)</sup>. 
 In this repository we describe our approach for manual persona development.
@@ -15,7 +15,7 @@ In order to support user-centered design of AI applications, we have developed a
 * clear descriptions of the recommended methods
 * useful tools for practical implementation
 
-We have made available all these material under Creative [Commons BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) license. You can **use, redistribute, and adapt** the material for **non-commercial purposes**, as long as you give appropriate credit by **citing our paper** and **indicating any changes** that you have made.
+We have made available all these material under Creative [Commons BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) license. You can **use, redistribute, and adapt** the material for **non-commercial purposes**, as long as you give appropriate credit by **citing our paper** and indicating any changes that you have made.
 
 ---
 ---
