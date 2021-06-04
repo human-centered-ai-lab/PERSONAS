@@ -102,7 +102,7 @@ In the literature, there are many different templates and structures proposed fo
 * goals/values
 
 **Material:**
-* Example: Foundation Document for Persona "Quality Manager at Diagnostics Institute"
+* Example: [Foundation Document for Persona "Quality Manager at Diagnostics Institute"](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/example-foundation-document_QM-diagnostics-institute.pdf)
 
 ---
 ---
