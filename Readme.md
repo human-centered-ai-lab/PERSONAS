@@ -113,13 +113,37 @@ In the literature, there are many different templates and structures proposed fo
 **Practical Hint:**  
 A central part of the persona sheet is the fictional picture of the persona, visualising the persona as a tangible person. Do not take a picture of a real user or a picture of a person from your network (e.g. colleagues, family or friends) for this purpose. You could take a picture from internet, which is published under a license that allows usage for this purpose. However, it is of utmost importance that the chosen picture fits to the character and helps to convey the characteristic aspects of the persona, as described in the persona's foundation document. We have found that it is rather difficult to get such photos, which are suitable for persona visualisation. To solve this problem, we have created a set of fictional pictures, which are suitable for visualisation of personas for AI, using the code from [thispersondoesnotexist.com](https://thispersondoesnotexist.com/).
 
+**Material:**  
+* Persona Sheet Examples
+* Persona Sheet Templates
+* Set of Pictures for Persona Visualisation
+
+# Resources
+
+* **Development Process of Personas for AI**  
+Paper "Personas for AI"
+* **Step 1: Identification of (Potential) User Groups**  
+[Impulses for Brainstorming](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/brainstorming-impulses.pdf)  
+[Example: User Groups for AI Application in Computational Pathology](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/example_identified-user-groups.pdf)  
+* **Step 2: Collection of Information about the (Potential) Users**  
+[Example Interview Guidelines](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/example_interview-guideline-QM-diagnostics-institute.pdf)  
+[Example Questionnaire - 'indirect view'](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/example_questionnaire-salesrepresentative.pdf)  
+[Example Questionnaire - 'direct' and 'indirect view'](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/example_questionnaire-pathologist.pdf)  
+* **Step 3: Consolidation \& Analysis of the Collected Information**  
+[Practical Tips for Affinity Diagramming](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/practical-tips-for-affinity-diagramming.pdf)  
+* **Step 4: Creating the Foundation for a Persona**  
+[Example: Foundation Document for Persona "Quality Manager at Diagnostics Institute"](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/example-foundation-document_QM-diagnostics-institute.pdf)  
+* **Step 5: Visualising a Persona**  
+Persona Sheet Examples  
+Persona Sheet Templates  
+Set of Pictures for Persona Visualisation  
 
 
 
 ---
 ---
 # Licenses
-All material is made available under Creative [Commons BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) license by Human-Centered AI Lab / Research and Diagnostics Institute of Pathology at Medical University Graz. You can **use, redistribute, and adapt** the material for **non-commercial purposes**, as long as you give appropriate credit by **citing our paper** and **indicating any changes** that you have made.
+All material is made available under [Creative Commons BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) license by Human-Centered AI Lab / Research and Diagnostics Institute of Pathology at Medical University Graz. You can **use, redistribute, and adapt** the material for **non-commercial purposes**, as long as you give appropriate credit by **citing our paper** and indicating any changes that you have made.
 
 ---
 ---
