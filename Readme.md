@@ -102,7 +102,19 @@ In the literature, there are many different templates and structures proposed fo
 * goals/values
 
 **Material:**
-* Example: [Foundation Document for Persona "Quality Manager at Diagnostics Institute"](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/example-foundation-document_QM-diagnostics-institute.pdf)
+* [Example: Foundation Document for Persona "Quality Manager at Diagnostics Institute"](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/example-foundation-document_QM-diagnostics-institute.pdf)
+
+
+## Step 5: Visualising a Persona
+**Aim:** The aim of this task is to make the fictional persona a tangible character to help people empathize with the persona.
+
+**Method:** To achieve this, a _Persona Sheet_ is created. A persona sheet is the visualisation of a persona in a nice 1-page layout. The persona sheet includes narrative text about the persona's interests, values, lifestyle, attitudes and behavioural patterns based on the information from the persona's foundation document. However, in order to make the persona more realistic, also a fictional picture of the persona, a ficional name, age, and some other fictional parts (for example regarding hobbies or family) are added to the persona sheet. All these fictional parts must be chosen carefully. It must be taken care that these fictional information parts fit to the character and support communication of the persona's characteristics described in the persona's foundation document.
+
+**Practical Hint:**  
+A central part of the persona sheet is the fictional picture of the persona, visualising the persona as a tangible person. Do not take a picture of a real user or a picture of a person from your network (e.g. colleagues, family or friends) for this purpose. You could take a picture from internet, which is published under a license that allows usage for this purpose. However, it is of utmost importance that the chosen picture fits to the character and helps to convey the characteristic aspects of the persona, as described in the persona's foundation document. We have found that it is rather difficult to get such photos, which are suitable for persona visualisation. To solve this problem, we have created a set of fictional pictures, which are suitable for visualisation of personas for AI, using the code from [thispersondoesnotexist.com](https://thispersondoesnotexist.com/).
+
+
+
 
 ---
 ---
