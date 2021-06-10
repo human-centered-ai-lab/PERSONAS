@@ -1,21 +1,21 @@
 # Personas for AI
 
 
-In user-centered design of software applications, the **_personas_ method** is used to keep design and development of the product focused on the users' needs, abilities and preferences in order to create useful products which are usable easily. 
+In user-centered design of software applications, the **_personas_ method** is used to keep design and development of the product focused on the users' needs, abilities and preferences in order to create useful products which are usable easily. You can find more information about the personas method in <sup name="Nielsen">[[Nielsen]](#footnoteNielsen)</sup>.
 
-When it comes to artificial intelligence (AI) applications, often _causability_ <sup name="a1">[[1]](#footnote1)</sup> is added to the users' needs: Specifically in high-stake domains, such as for example in medicine,  users need to understand the rationale and certainty underlying the results delivered by an AI application. Therefore, **it is essential that AI applications are designed and developed with the users in mind**, in order to achieve useful AI solutions with high usability and causability.
+When it comes to artificial intelligence (AI) applications, often _causability_ <sup name="a1">[[1]](#footnote1)</sup> is added to the users' needs: Specifically in high-stake domains, such as for example in medicine,  users need to understand the rationale and certainty underlying the results delivered by an AI application. Therefore, in order to achieve useful AI solutions with high usability and causability **it is essential that AI applications are designed and developed with the users in mind** (human-centered AI).
 
 In principle there exist two fundamentally different approaches for creating personas: data-driven persona development and manual persona development. Data-driven persona development needs large amounts of user data (big data) to be useful, and thus for many use cases manual persona development using merely qualitative data is a better choice <sup name="a2">[[2]](#footnote2)</sup>. 
 In this repository we describe our approach for manual persona development.
 
 
-In order to support user-centered design of AI applications, we have developed a 5-steps approach for developing user personas for AI. Furthermore, based on our experience from practical implementation of the personas development process, we have created free material and tools to facilitate development of user personas for AI. This repository "Personas for AI" contains:
+In order to support user-centered design and development of AI applications, we have elaborated a 5-steps approach for developing user personas for AI. Furthermore, based on our experience from practical implementation of the personas development process, we have created free material and tools to facilitate development of user personas for AI. This repository "Personas for AI" contains:
 * a step-by-step guide for personas development
 * illustrative examples from practical implementation in the field of Computational Pathology
 * clear descriptions of the recommended methods
 * useful tools for practical implementation
 
-We have made available all these material under Creative [Commons BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) license. You can **use, redistribute, and adapt** the material for **non-commercial purposes**, as long as you give appropriate credit by **citing our paper** and indicating any changes that you have made.
+We have made available all these material under Creative [Commons BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) license. You can **use, redistribute, and adapt** the material for **non-commercial purposes**, as long as you give appropriate credit by **citing our paper _"Personas for AI: An Open-Source Toolbox"_** and indicating any changes that you have made.
 
 ---
 ---
@@ -37,17 +37,18 @@ We have elaborated a 5-steps process for the development of user personas for AI
 * [Example: User Groups for AI Application in Computational Pathology](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/example_identified-user-groups.pdf)
 
 ## Step 2: Collection of Information about the (Potential) Users
-**Aim:** The aim of this task is twofold: (1) Get to know (potential) users personally --> Learn about their goals, motivations, frustrations, hopes, skills, education, knowledge, personal traits and aspirations. (2) Get to know (potential) use cases --> Learn about the users' tasks and find out in which context the AI application would probably be used. 
-The goal is to collect relevant information regarding the following five areas:
+**Aim:** The aim of this task is threefold: (1) Get to know (potential) users personally --> Learn about their goals, motivations, frustrations, hopes, skills, education, knowledge, personal traits and aspirations. (2) Get to know (potential) use cases --> Learn about the users' tasks and find out in which context the AI application would probably be used. (3) Learn about the users' attitudes regarding AI applications, and find out under which conditions they would trust / follow machine decisions.  
+The goal is to collect relevant information regarding the following six areas:
 * education, experience 
 * tasks, workflows, work context
 * skills, knowledge
 * motivations, frustrations
 * personal traits, values, learning style
+* attitudes regarding AI solutions & machine decisions
 
 **Method:** Qualitative methods such as interviews and surveys are used for information collection. There are different approaches possible:
 * ***Approach 1: Comprehensive Interviews***  
-In this approach, the aim is to cover all five information areas necessary for the creation of personas within a user interview. Ideally, ethnographic interviews or contextual inquiries are conducted with users in that place, where they would use the AI application. <sup name="a3">[[3]](#footnote3)</sup> Such a setting makes it possible to get a feeling of the context and framework conditions and observe the user 'in action'. However, if such on-site interviews and observations are not possible, also one-on-one interviews in another location or remote interviews via video/phone call can be used for information collection.   
+In this approach, the aim is to cover all five information areas necessary for the creation of personas within a user interview. Ideally, ethnographic interviews or contextual inquiries are conducted with users in that place, where they would use the AI application. <sup name="Cooper, Reimann">[[Cooper, Reimann]](#footnoteCooperReimann)</sup> Such a setting makes it possible to get a feeling of the context and framework conditions and observe the user 'in action'. However, if such on-site interviews and observations are not possible, also one-on-one interviews in another location or remote interviews via video/phone call can be used for information collection.   
 IMPORTANT: Always use open questions and avoid leading questions, so that the interviewee is not inadvertently biased.
 * ***Approach 2: Comprehensive Questionnaires***  
 In this approach, the aim is to obtain all information necessary for the creation of personas through a survey. On the one hand, it might be tempting to try to mimic an interview and thus design a questionnaire with lots of open questions. However, experience shows that it is difficult to collect a sufficient amount of responses to such a questionnaire, since people do not like to spend a lot of time and write much text when filling in a questionnaire. On the other hand, by reducing the number of open questions usually also the amount of information that can be collected with the questionnaire is reduced. Therefore, it is difficult to implement this approach in practice, and we would not recommend to choose this approach.
@@ -56,12 +57,14 @@ In this approach, only part of the necessary information is collected via questi
 
 **Practical Hints:** 
 * _Conduct interviews:_  
-Whenever possible, prefer interviews over questionnaires for information collection, since interviews provide much deeper insights and much more detailed information than questionnaires. On the one hand, the interviewer has the possibility to react on the answers of the interviewee, ask follow-up questions to gain a deeper understanding or modify the wording or order of the questions to adapt to the specific situation. Furthermore, besides the information retrieved from the answers of the interviewee, interviews provide more sources of valuable insights, such as asides made by the interviewee, the tone of voice, or aspects stressed specifically by the interviewee. This kind of 'aside information' cannot be obtained through questionnaires. Thus, even when it is not possible to collect all information through interviews, it is always worth the effort to conduct at least one or two interviews supplemental to a survey.
+Whenever possible, prefer interviews over questionnaires for information collection, since interviews provide much deeper insights and much more detailed information than questionnaires. On the one hand, the interviewer has the possibility to react on the answers of the interviewee, ask follow-up questions to gain a deeper understanding or modify the wording or order of the questions to adapt to the specific situation. Furthermore, besides the information retrieved from the answers of the interviewee, interviews provide more sources of valuable insights, such as asides made by the interviewee, the tone of voice, or aspects stressed specifically by the interviewee. This kind of 'aside information' cannot be obtained through questionnaires. In addition, by obtaining information through talking to members of the user group directly it is easier to obtain a more comprehensive view of people's complex identities and avoid stereotyping. Thus, even when it is not possible to collect all information through interviews, it is always worth the effort to conduct at least two or three interviews supplemental to a survey.
+* _Get a comprehensive view:_  
+Try to collect information from a sample of members of the user group as diverse as possible. For example, include people with different age, gender, abilities, education, cultural background etc. Aim for getting a comprehensive view on the user group, and try to catch details and facettes that are easily overlooked, when concentrating only on majorities or being led by preconceptions. Take into account the multiple identities of a person, as this helps to minimise stereotyping <sup name="a3">[[3]](#footnote3)</sup>.
 * _Focus on relevant information:_  
  When collecting user information and data, concentrate on those aspects, which are (or might be) relevant with respect to the AI application. A persona does not describe the whole person, but the focus is put only on the relevant aspects (such as relevant attitudes, skills...) and specific context related to the usage of the AI application. For example, in the context of a specific AI application it might be relevant, whether or not the user plays the piano, has got a dog, likes hiking or is married, while in the context of another AI application these aspects might not be relevant.
 * _Combine 'direct' and 'indirect' view on the user group:_  
-In interviews and questionnaires members of a user group are asked about their _personal_ education, tasks, skills, knowledge, goals, motivations, values and frustrations. This provides a 'direct' view on the members of the user group. In addition, ask also about skills, knowledge, goals, motivations and frustrations of a _typical_ member of the respective user group, which provides an 'indirect' view on that user group seen through the eyes of a peer. One benefit of this approach is, that for many people 'indirect' questions make it easier to state negative feelings and aspecs like frustrations and difficulties. In addition, asking about a _typical_ member of the group helps to level bias, which stems from the fact that those, who participate in (online) surveys, usually tend to be the more active, extrovert and open-minded members of a group.
-* _Valuable input from internet research:_  
+In interviews and questionnaires members of a user group are asked about their _personal_ education, tasks, skills, knowledge, goals, motivations, values, attitudes and frustrations. This provides a 'direct' view on the members of the user group. In addition, ask also about skills, knowledge, goals, motivations and frustrations of a _typical_ member of the respective user group, which provides an 'indirect' view on that user group seen through the eyes of a peer. One benefit of this approach is, that for many people 'indirect' questions make it easier to state negative feelings and aspecs like frustrations and difficulties. In addition, asking about a _typical_ member of the group helps to level bias, which stems from the fact that those, who participate in (online) surveys, usually tend to be the more active, extrovert and open-minded members of a group.
+* _Obtain valuable input from internet research:_  
 In a business domain, often you can retrieve valuable information about a specific job/role from job descriptions posted on websites of educational institutions or from job advertisements posted by companies. Interesting information regarding education, skills and careers of people working in a specific job/role can be retrieved from social media profiles. This information can be used to complete/complement information gained from members of the user group through interviews or questionnaires.
 
 **Material:**  
@@ -100,6 +103,7 @@ In the literature, there are many different templates and structures proposed fo
 * motivational factors
 * frustrations/hurdles
 * goals/values
+* attitudes regarding AI solutions
 
 **Material:**
 * [Example: Foundation Document for Persona "Quality Manager at Diagnostics Institute"](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/example-foundation-document_QM-diagnostics-institute.pdf)
@@ -108,10 +112,11 @@ In the literature, there are many different templates and structures proposed fo
 ## Step 5: Visualising a Persona
 **Aim:** The aim of this task is to make the fictional persona a tangible character to help people empathize with the persona.
 
-**Method:** To achieve this, a _Persona Sheet_ is created. A persona sheet is the visualisation of a persona in a nice 1-page layout. The persona sheet includes narrative text about the persona's interests, values, lifestyle, attitudes and behavioural patterns based on the information from the persona's foundation document. However, in order to make the persona more realistic, also a fictional picture of the persona, a ficional name, age, and some other fictional parts (for example regarding hobbies or family) are added to the persona sheet. All these fictional parts must be chosen carefully. It must be taken care that these fictional information parts fit to the character and support communication of the persona's characteristics described in the persona's foundation document.
+**Method:** To achieve this, a _Persona Sheet_ is created. A persona sheet is the visualisation of a persona in a nice 1-page layout. The persona sheet includes narrative text about the persona's interests, values, lifestyle, attitudes and behavioural patterns based on the information from the persona's foundation document. However, in order to make the persona more realistic, also a fictional picture of the persona, a ficional name, age, and some other fictional parts (for example regarding hobbies or family) are added to the persona sheet. All these fictional parts must be chosen carefully. It must be taken care that these fictional information parts fit to the character and support communication of the persona's characteristics as described in the persona's foundation document.
 
 **Practical Hint:**  
-A central part of the persona sheet is the fictional picture of the persona, visualising the persona as a tangible person. Do not take a picture of a real user or a picture of a person from your network (e.g. colleagues, family or friends) for this purpose. You could take a picture from internet, which is published under a license that allows usage for this purpose. However, it is of utmost importance that the chosen picture fits to the character and helps to convey the characteristic aspects of the persona, as described in the persona's foundation document. We have found that it is rather difficult to get such photos, which are suitable for persona visualisation. To solve this problem, we have created a set of fictional pictures, which are suitable for visualisation of personas for AI, using the code from [thispersondoesnotexist.com](https://thispersondoesnotexist.com/).
+A central part of the persona sheet is the fictional picture of the persona, visualising the persona as a tangible person. A realistic picture increases empathy with the persona <sup name="a4">[[4]](#footnote4)</sup>. However, details conveyed by this picture (such as age, gender, social status, cultural background...) can activate stereotypes <sup name="a5">[[5]](#footnote5)</sup>. Therefore, it is of utmost importance that the picture is selected carefully, so to avoid stereotyping and help to convey the characteristic aspects of the persona, as described in the persona's foundation document.   
+For visualising a persona, do not take a picture of a real user or a picture of a person from your network (e.g. colleagues, family or friends). You could take a picture from internet, which is published under a license that allows usage for this purpose.  However, we have found that it is rather difficult to get such photos, which are suitable for persona visualisation. To solve this problem, we have created a set of fictional pictures, which are suitable for visualisation of personas for AI, using the code from [thispersondoesnotexist.com](https://thispersondoesnotexist.com/).
 
 **Material:**  
 * Persona Sheet Examples
@@ -121,7 +126,7 @@ A central part of the persona sheet is the fictional picture of the persona, vis
 # Resources
 
 * **Development Process of Personas for AI**  
-Paper "Personas for AI"
+Paper "Personas for AI: An Open-Source Toolbox"
 * **Step 1: Identification of (Potential) User Groups**  
 [Impulses for Brainstorming](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/brainstorming-impulses.pdf)  
 [Example: User Groups for AI Application in Computational Pathology](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/example_identified-user-groups.pdf)  
@@ -135,7 +140,7 @@ Paper "Personas for AI"
 [Example: Foundation Document for Persona "Quality Manager at Diagnostics Institute"](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/example-foundation-document_QM-diagnostics-institute.pdf)  
 * **Step 5: Visualising a Persona**  
 Persona Sheet Examples  
-Persona Sheet Templates  
+Persona Sheet Templates: [LaTeX Template (portrait format)](https://www.overleaf.com/latex/templates/template-persona-for-ai/bnvxcgtdbfsc)  
 Set of Pictures for Persona Visualisation  
 
 
@@ -143,7 +148,7 @@ Set of Pictures for Persona Visualisation
 ---
 ---
 # Licenses
-All material is made available under [Creative Commons BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) license by Human-Centered AI Lab / Research and Diagnostics Institute of Pathology at Medical University Graz. You can **use, redistribute, and adapt** the material for **non-commercial purposes**, as long as you give appropriate credit by **citing our paper** and indicating any changes that you have made.
+All material is made available under [Creative Commons BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) license by Human-Centered AI Lab / Research and Diagnostics Institute of Pathology at Medical University Graz. You can **use, redistribute, and adapt** the material for **non-commercial purposes**, as long as you give appropriate credit by **citing our paper _"Personas for AI: An Open-Source Toolbox"_**.
 
 ---
 ---
@@ -154,10 +159,26 @@ Parts of this work have received funding from the European Union's Horizon 2020 
 ---
 # Further Reading
 
+## Papers
+
 <a name="footnote1">[[1]](#a1)</a> A. Holzinger, Explainable AI and multi-modal causability in medicine, i-com19(3). [doi:10.1515/icom-2020-0024](https://doi.org/10.1515/icom-2020-0024)
 
 <a name="footnote2">[[2]](#a2)</a> J. Salminen, K. Guan, S.-G. Jung, B. J. Jansen, A survey of 15
-years of data-driven persona development, International Journal of Human Computer Interaction (2021) 1-24 [doi:10.1080/10447318.2021.1908670](https://doi.org/10.1080/10447318.2021.1908670)
+years of data-driven persona development, International Journal of Human Computer Interaction (2021) 1-24. [doi:10.1080/10447318.2021.1908670](https://doi.org/10.1080/10447318.2021.1908670)
 
-<a name="footnote3">[[3]](#a3)</a> A. Cooper, R. Reimann, About Face 2.0 - The Essentials of Interaction
-Design, John Wiley & Sons, 2003. Published online 2006: [https://flylib.com/books/en/2.153.1](https://flylib.com/books/en/2.153.1/)
+<a name="footnote3">[[3]](#a3)</a> N. Marsden, M. Pröbster, Personas and identity: Looking at multiple identities to inform the construction of personas, in: Conference on Human
+Factors in Computing Systems CHI 2019 - Proceedings, Association for Computing Machinery, 2019. [doi:10.1145/3290605.3300565](https://doi.org/10.1145/3290605.3300565)
+
+<a name="footnote4">[[4]](#a4)</a> J. Salminen, S.-G. Jung, J. M. Santos, A. M. S. Kamel, B. J. Jansen, Picturing it!: The effect of image styles on user perceptions of personas, in:
+Proceedings CHI '21, Association for Computing Machinery (ACM), 2021,
+pp. 1-16. [doi:10.1145/3411764.3445360](https://doi.org/10.1145/3411764.3445360)
+
+<a name="footnote5">[[5]](#a5)</a> M. Pröbster, J. Hermann, N. Marsden, Personas and persons - an empirical study on stereotyping of personas, ACM International Conference
+Proceeding Series (2019) 137-146. [doi:10.1145/3340764.3340771](https://doi.org/10.1145/3340764.3340771)
+
+
+## Books
+
+<a name="Nielsen">[[Nielsen]](#Nielsen)</a> L. Nielsen, Personas - User Focused Design, Springer-Verlag London, 2019. [doi: 10.1007/978-1-4471-7427-1](https://doi.org/10.1007/978-1-4471-7427-1)
+
+<a name="Cooper, Reimann">[[Cooper, Reimann]](#CooperReimann)</a> A. Cooper, R. Reimann, About Face 2.0 - The Essentials of Interaction Design, John Wiley & Sons, 2003. Published online 2006: [https://flylib.com/books/en/2.153.1](https://flylib.com/books/en/2.153.1/)
