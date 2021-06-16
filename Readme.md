@@ -33,8 +33,8 @@ We have elaborated a 5-steps process for the development of user personas for AI
 **Method:** We recommend to use the well-known method of _brainstorming_ for collecting ideas regarding potential user groups. After the brainstorming session discuss and evaluate the results, and agree on a list of user groups, to form the starting point for the creation of personas.
 
 **Material:**
-* [Impulses for Brainstorming](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/brainstorming-impulses.pdf)
-* [Example: User Groups for AI Application in Computational Pathology](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/example_identified-user-groups.pdf)
+* [Impulses for Brainstorming](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/tools/brainstorming-impulses.pdf)
+* [Example: User Groups for AI Application in Computational Pathology](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/examples/example_identified-user-groups.pdf)
 
 ## Step 2: Collection of Information about the (Potential) Users
 **Aim:** The aim of this task is threefold: (1) Get to know (potential) users personally --> Learn about their goals, motivations, frustrations, hopes, skills, education, knowledge, personal traits and aspirations. (2) Get to know (potential) use cases --> Learn about the users' tasks and find out in which context the AI application would probably be used. (3) Learn about the users' attitudes regarding AI applications, and find out under which conditions they would trust / follow machine decisions.  
@@ -68,9 +68,9 @@ In interviews and questionnaires members of a user group are asked about their _
 In a business domain, often you can retrieve valuable information about a specific job/role from job descriptions posted on websites of educational institutions or from job advertisements posted by companies. Interesting information regarding education, skills and careers of people working in a specific job/role can be retrieved from social media profiles. This information can be used to complete/complement information gained from members of the user group through interviews or questionnaires.
 
 **Material:**  
-* [Example Interview Guidelines](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/example_interview-guideline-QM-diagnostics-institute.pdf)
-* [Example Questionnaire - 'indirect view'](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/example_questionnaire-salesrepresentative.pdf)
-* [Example Questionnaire - 'direct' and 'indirect view'](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/example_questionnaire-pathologist.pdf)
+* [Example Interview Guidelines](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/examples/example_interview-guideline-QM-diagnostics-institute.pdf)
+* [Example Questionnaire - 'indirect view'](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/examples/example_questionnaire-salesrepresentative.pdf)
+* [Example Questionnaire - 'direct' and 'indirect view'](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/examples/example_questionnaire-pathologist.pdf)
 
   
 ## Step3: Consolidation \& Analysis of the Collected Information
@@ -87,7 +87,7 @@ In a business domain, often you can retrieve valuable information about a specif
 For every piece of information preserve the connection to its origin during the whole process of organising, structuring, splitting, combining and condensing of the information. This can for example be done by assigning a brief ID to each information source and marking the information with the respective ID of its source (e.g. interviewee 1 gets the ID i001 and this ID is appended to all statements from interviewee 1).  This will help to find out grouping characteristics later on in the project. Furthermore, knowledge about the source of the information can also increase people's confidence and commitment later on, when working with a persona.
 
 **Material:**
-* [Practical Tips for Affinity Diagramming](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/practical-tips-for-affinity-diagramming.pdf)
+* [Practical Tips for Affinity Diagramming](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/tools/practical-tips-for-affinity-diagramming.pdf)
 
 
 ## Step 4: Creating the Foundation for a Persona
@@ -106,7 +106,7 @@ In the literature, there are many different templates and structures proposed fo
 * attitudes regarding AI solutions
 
 **Material:**
-* [Example: Foundation Document for Persona "Quality Manager at Diagnostics Institute"](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/example-foundation-document_QM-diagnostics-institute.pdf)
+* [Example: Foundation Document for Persona "Quality Manager at Diagnostics Institute"](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/example/example-foundation-document_QM-diagnostics-institute.pdf)
 
 
 ## Step 5: Visualising a Persona
@@ -128,16 +128,16 @@ For visualising a persona, do not take a picture of a real user or a picture of 
 * **Development Process of Personas for AI**  
 Paper "Personas for AI: An Open-Source Toolbox"
 * **Step 1: Identification of (Potential) User Groups**  
-[Impulses for Brainstorming](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/brainstorming-impulses.pdf)  
-[Example: User Groups for AI Application in Computational Pathology](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/example_identified-user-groups.pdf)  
+[Impulses for Brainstorming](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/tools/brainstorming-impulses.pdf)  
+[Example: User Groups for AI Application in Computational Pathology](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/examples/example_identified-user-groups.pdf)  
 * **Step 2: Collection of Information about the (Potential) Users**  
-[Example Interview Guidelines](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/example_interview-guideline-QM-diagnostics-institute.pdf)  
-[Example Questionnaire - 'indirect view'](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/example_questionnaire-salesrepresentative.pdf)  
-[Example Questionnaire - 'direct' and 'indirect view'](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/example_questionnaire-pathologist.pdf)  
+[Example Interview Guidelines](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/examples/example_interview-guideline-QM-diagnostics-institute.pdf)  
+[Example Questionnaire - 'indirect view'](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/examples/example_questionnaire-salesrepresentative.pdf)  
+[Example Questionnaire - 'direct' and 'indirect view'](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/examples/example_questionnaire-pathologist.pdf)  
 * **Step 3: Consolidation \& Analysis of the Collected Information**  
-[Practical Tips for Affinity Diagramming](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/practical-tips-for-affinity-diagramming.pdf)  
+[Practical Tips for Affinity Diagramming](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/tools/practical-tips-for-affinity-diagramming.pdf)  
 * **Step 4: Creating the Foundation for a Persona**  
-[Example: Foundation Document for Persona "Quality Manager at Diagnostics Institute"](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/example-foundation-document_QM-diagnostics-institute.pdf)  
+[Example: Foundation Document for Persona "Quality Manager at Diagnostics Institute"](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/examples/example-foundation-document_QM-diagnostics-institute.pdf)  
 * **Step 5: Visualising a Persona**  
 Persona Sheet Examples  
 Persona Sheet Templates: [LaTeX Template (portrait format)](https://www.overleaf.com/latex/templates/template-persona-for-ai/bnvxcgtdbfsc)  
