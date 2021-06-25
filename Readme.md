@@ -116,8 +116,15 @@ In the literature, there are many different templates and structures proposed fo
 A central part of the persona sheet is the fictional picture of the persona, visualising the persona as a tangible person. A realistic picture increases empathy with the persona <sup name="a4">[[4]](#footnote4)</sup>. However, how people perceive a persona picture is strongly dependent on their gender or cultural background, and details conveyed by this picture (such as age, gender, social status, cultural background...) can activate stereotypes <sup name="a5">[[5]](#footnote5)</sup>. Therefore, it is of utmost importance that the picture is selected carefully, so to avoid stereotyping and help to convey the characteristic aspects of the persona, as described in the persona's foundation document.   
 For visualising a persona, do not take a picture of a real user or a picture of a person from your network (e.g. colleagues, family or friends). You could take a picture from internet, which is published under a license that allows usage for this purpose.  However, we have found that it is rather difficult to get such photos, which are suitable for persona visualisation. To solve this problem, we have created a set of fictional pictures, which are suitable for visualisation of personas for AI, using the code from [thispersondoesnotexist.com](https://thispersondoesnotexist.com/).
 
+<img src="https://github.com/human-centered-ai-lab/PERSONAS/blob/main/examples/example-personasheet-pathologist_portrait.pdf" alt="example persona sheet in portrait format" width="100">  
+
+<img src="https://github.com/human-centered-ai-lab/PERSONAS/blob/main/examples/example-personasheet-softwaredeveloper_landscape.pdf" alt="example persona sheet in landscape format" height="100">
+
+
 **Material:**  
-* Persona Sheet Examples
+* Persona Sheet Examples:
+    * [example: Persona Pathologist (persona sheet in portrait format)](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/examples/example-personasheet-pathologist_portrait.pdf)  
+    * [example: Persona Softwaredeveloper (persona sheet in landscape format)](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/examples/example-personasheet-softwaredeveloper_landscape.pdf)
 * Persona Sheet Templates:
     * [LaTeX template (portrait format)](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/tools/latex-template-persona-for-ai-portrait-v01.zip)
     * [LaTeX template (landscape format)](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/tools/latex-template-persona-for-ai-landscape-v03.zip)
@@ -139,9 +146,15 @@ Paper "Personas for AI: An Open-Source Toolbox"
 * **Step 4: Creating the Foundation for a Persona**  
 [Example: Foundation Document for Persona "Quality Manager at Diagnostics Institute"](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/examples/example-foundation-document_QM-diagnostics-institute.pdf)  
 * **Step 5: Visualising a Persona**  
-Persona Sheet Examples  
-Persona Sheet Templates: [LaTeX Template (portrait format)](https://www.overleaf.com/latex/templates/template-persona-for-ai/bnvxcgtdbfsc)  
-Set of Pictures for Persona Visualisation  
+Persona Sheet Examples: 
+    * [example: Persona Pathologist (persona sheet in portrait format)](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/examples/example-personasheet-pathologist_portrait.pdf)  
+    * [example: Persona Softwaredeveloper (persona sheet in landscape format)](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/examples/example-personasheet-softwaredeveloper_landscape.pdf)
+
+    Persona Sheet Templates: 
+    * [LaTeX Template (portrait format)](https://www.overleaf.com/latex/templates/template-persona-for-ai/bnvxcgtdbfsc) 
+    * [LaTeX Template (landscape format)](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/tools/latex-template-persona-for-ai-landscape-v03.zip)  
+
+    Set of Pictures for Persona Visualisation  
 
 
 
