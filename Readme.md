@@ -118,7 +118,9 @@ For visualising a persona, do not take a picture of a real user or a picture of 
 
 **Material:**  
 * Persona Sheet Examples
-* Persona Sheet Templates
+* Persona Sheet Templates:
+    * [LaTeX template (portrait format)](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/tools/latex-template-persona-for-ai-portrait-v01.zip)
+    * [LaTeX template (landscape format)](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/tools/latex-template-persona-for-ai-landscape-v03.zip)
 * Set of Pictures for Persona Visualisation
 
 # Resources
