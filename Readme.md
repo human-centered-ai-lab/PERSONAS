@@ -120,12 +120,12 @@ For visualising a persona, do not take a picture of a real user or a picture of 
 
 
 **Material:**  
-* Examples of Persona Sheets:
+* Examples of persona sheets created for personas in Digital Pathology:
     * example: Persona Pathologist 1 [(persona sheet in portrait format) ](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/examples/example-personasheet-pathologist_portrait.pdf) [(persona sheet in landscape format)](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/examples/example-personasheet-pathologist1_landscape.pdf)
     * example: Persona Pathologist 2 [(persona sheet in portraint format)](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/examples/example-personasheet-pathologist2_portrait.pdf) [(persona sheet in landscape format)](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/examples/example-personasheet-pathologist2_landscape.pdf)
     * example: Persona Researcher in Pathology [(persona sheet in portrait format) ](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/examples/example-personasheet-researcher_in_pathology_portrait.pdf)[(persona sheet in landscape format)](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/examples/example-personasheet-researcher_in_pathology_landscape.pdf)
     * example: Persona Software Developer [(persona sheet in portrait format) ](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/examples/example-personasheet-softwaredeveloper_portrait.pdf)[(persona sheet in landscape format)](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/examples/example-personasheet-softwaredeveloper_landscape.pdf)
-* Templates for Creating Persona Sheets:  
+* Templates for creating persona sheets:  
     * LaTeX templates: (To use the LaTeX templates, download the zip-file and import it as a new project into [overleaf](https://www.overleaf.com).)
         * [LaTeX template (portrait format)](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/tools/latex-template-persona-for-ai-portrait-v01.zip)
         * [LaTeX template (landscape format)](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/tools/latex-template-persona-for-ai-landscape-v03.zip)
@@ -147,13 +147,13 @@ Paper Holzinger et al (2021) "Personas for AI: An Open-Source Toolbox"
 * **Step 4: Creating the Foundation for a Persona**  
 [Example: Foundation Document for Persona "Quality Manager at Diagnostics Institute"](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/examples/example-foundation-document_QM-diagnostics-institute.pdf)  
 * **Step 5: Visualising a Persona**  
-Examples of Persona Sheets: 
+Examples of persona sheets created for personas in Digital Pathology: 
    * example: Persona Pathologist 1 [(persona sheet in portrait format) ](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/examples/example-personasheet-pathologist_portrait.pdf) [(persona sheet in landscape format)](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/examples/example-personasheet-pathologist1_landscape.pdf)
    * example: Persona Pathologist 2 [(persona sheet in portraint format)](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/examples/example-personasheet-pathologist2_portrait.pdf) [(persona sheet in landscape format)](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/examples/example-personasheet-pathologist2_landscape.pdf)
    * example: Persona Researcher in Pathology [(persona sheet in portrait format) ](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/examples/example-personasheet-researcher_in_pathology_portrait.pdf)[(persona sheet in landscape format)](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/examples/example-personasheet-researcher_in_pathology_landscape.pdf)
     * example: Persona Software Developer [(persona sheet in portrait format) ](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/examples/example-personasheet-softwaredeveloper_portrait.pdf)[(persona sheet in landscape format)](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/examples/example-personasheet-softwaredeveloper_landscape.pdf)
 
-    Templates for Creating Persona Sheets: 
+    Templates for creating persona sheets: 
     * LaTeX templates: (To use the LaTeX templates, download the zip-file and import it as a new project into [Overleaf](https://www.overleaf.com).)
         * [LaTeX Template (portrait format)](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/tools/latex-template-persona-for-ai-portrait-v01.zip) 
         * [LaTeX Template (landscape format)](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/tools/latex-template-persona-for-ai-landscape-v03.zip)  
