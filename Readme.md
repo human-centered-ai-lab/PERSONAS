@@ -121,7 +121,7 @@ For visualising a persona, do not take a picture of a real user or a picture of 
 
 **Material:**  
 * Persona Sheet Examples:
-    * [example: Persona Pathologist 1 (persona sheet in portrait format)](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/examples/example-personasheet-pathologist_portrait.pdf) 
+    * example: Persona Pathologist 1 [(persona sheet in portrait format) ](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/examples/example-personasheet-pathologist_portrait.pdf) [(persona sheet in landscape format)](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/examples/example-personasheet-pathologist1_landscape.pdf)
     * [example: Persona Pathologist 2 (persona sheet in landscape format)](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/examples/example-personasheet-pathologist2_landscape.pdf)
     * [example: Persona Softwaredeveloper (persona sheet in landscape format)](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/examples/example-personasheet-softwaredeveloper_landscape.pdf)
 * Persona Sheet Templates:  
