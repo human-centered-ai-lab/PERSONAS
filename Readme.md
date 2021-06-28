@@ -147,7 +147,7 @@ Paper "Personas for AI: An Open-Source Toolbox"
 [Example: Foundation Document for Persona "Quality Manager at Diagnostics Institute"](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/examples/example-foundation-document_QM-diagnostics-institute.pdf)  
 * **Step 5: Visualising a Persona**  
 Persona Sheet Examples: 
-    * [example: Persona Pathologist 1 (persona sheet in portrait format)](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/examples/example-personasheet-pathologist_portrait.pdf) 
+   * example: Persona Pathologist 1 [(persona sheet in portrait format) ](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/examples/example-personasheet-pathologist_portrait.pdf) [(persona sheet in landscape format)](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/examples/example-personasheet-pathologist1_landscape.pdf)
     * [example: Persona Pathologist 2 (persona sheet in landscape format)](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/examples/example-personasheet-pathologist2_landscape.pdf) 
     * [example: Persona Softwaredeveloper (persona sheet in landscape format)](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/examples/example-personasheet-softwaredeveloper_landscape.pdf)
 
