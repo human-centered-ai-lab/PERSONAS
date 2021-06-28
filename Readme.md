@@ -13,7 +13,7 @@ We have elaborated a 5-steps approach for developing user personas for AI. Furth
 * clear descriptions of the recommended methods
 * useful tools for practical implementation
 
-We have made available all these material under Creative [Commons BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) license. You can **use, redistribute, and adapt** the material for **non-commercial purposes**, as long as you give appropriate credit by **citing our paper _"Personas for AI: An Open-Source Toolbox"_** and indicating any changes that you have made.
+We have made available all these material under Creative [Commons BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) license. You can **use, redistribute, and adapt** the material for **non-commercial purposes**, as long as you give appropriate credit by **citing our paper _"Holzinger et al (2021), Personas for AI: An Open-Source Toolbox"_**.
 
 ---
 ---
@@ -162,8 +162,8 @@ Persona Sheet Examples:
 
 ---
 ---
-# Licenses
-All material is made available under [Creative Commons BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) license by Human-Centered AI Lab / Research and Diagnostics Institute of Pathology at Medical University Graz. You can **use, redistribute, and adapt** the material for **non-commercial purposes**, as long as you give appropriate credit by **citing our paper _"Personas for AI: An Open-Source Toolbox"_**.
+# Licence
+All material is made available under [Creative Commons BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) license by Human-Centered AI Lab / Research and Diagnostics Institute of Pathology at Medical University Graz. You can **use, redistribute, and adapt** the material for **non-commercial purposes**, as long as you give appropriate credit by **citing our paper _Holzinger et al (2021) "Personas for AI: An Open-Source Toolbox"_**.
 
 ---
 ---
