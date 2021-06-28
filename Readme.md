@@ -32,7 +32,7 @@ We have elaborated a 5-steps process for the development of user personas for AI
 
 **Material:**
 * [Impulses for Brainstorming](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/tools/brainstorming-impulses.pdf)
-* [Example: User Groups for AI Application in Computational Pathology](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/examples/example_identified-user-groups.pdf)
+* [Example: User Groups for AI Application in Digital Pathology](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/examples/example_identified-user-groups.pdf)
 
 ## Step 2: Collection of Information about the (Potential) Users
 **Aim:** The aim of this task is threefold: (1) Get to know (potential) users personally --> Learn about their goals, motivations, frustrations, hopes, skills, education, knowledge, personal traits and aspirations. (2) Get to know (potential) use cases --> Learn about the users' tasks and find out in which context the AI application would probably be used. (3) Learn about the users' attitudes regarding AI applications, and find out under which conditions they would trust / follow machine decisions.  
@@ -137,7 +137,7 @@ For visualising a persona, do not take a picture of a real user or a picture of 
 Paper Holzinger et al (2021) "Personas for AI: An Open-Source Toolbox"
 * **Step 1: Identification of (Potential) User Groups**  
 [Impulses for Brainstorming](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/tools/brainstorming-impulses.pdf)  
-[Example: User Groups for AI Application in Computational Pathology](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/examples/example_identified-user-groups.pdf)  
+[Example: User Groups for AI Application in Digital Pathology](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/examples/example_identified-user-groups.pdf)  
 * **Step 2: Collection of Information about the (Potential) Users**  
 [Example Interview Guidelines](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/examples/example_interview-guideline-QM-diagnostics-institute.pdf)  
 [Example Questionnaire - 'indirect view'](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/examples/example_questionnaire-salesrepresentative.pdf)  
