@@ -155,7 +155,7 @@ Examples of Persona Sheets:
 
     Templates for Creating Persona Sheets: 
     * LaTeX templates: (To use the LaTeX templates, download the zip-file and import it as a new project into [Overleaf](https://www.overleaf.com).)
-        * [LaTeX Template (portrait format)](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/tools/latex-template-persona-for-ai-landscape-v03.zip) 
+        * [LaTeX Template (portrait format)](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/tools/latex-template-persona-for-ai-portrait-v01.zip) 
         * [LaTeX Template (landscape format)](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/tools/latex-template-persona-for-ai-landscape-v03.zip)  
 
     Set of Pictures for Persona Visualisation  
