@@ -7,25 +7,31 @@ However, the rapid proliferation of Artificial Intelligence (AI) applications ma
 In principle, there exist two fundamentally different approaches for creating personas: data-driven persona development and manual persona development. Data-driven persona development needs large amounts of user data (big data) to be useful, and thus for many use cases manual persona development using merely qualitative data is a better choice <sup name="a2">[[2]](#footnote2)</sup>. 
 In this repository we describe our approach for manual persona development to support human-centered design and development of AI applications. 
 
-We have elaborated a 5-steps approach for developing user personas for AI. Furthermore, based on our experience from practical implementation of the personas development process, we have created free material and tools to facilitate development of user personas for AI. This repository "Personas for AI" contains:
-* a step-by-step guide for personas development
-* illustrative examples from practical implementation in the field of Digital Pathology
-* clear descriptions of the recommended methods
-* useful tools for practical implementation
+# About this Repository
+We have elaborated a 5-steps approach for developing user personas for AI. Furthermore, based on our experience from practical implementation of the personas development process, we have created free material and tools to facilitate development of user personas for AI. 
 
+This repository "Personas for AI" contains:
+* a detailed guide for [Developing Personas for AI: Step-by-Step](#developing-personas-for-ai-step-by-step)  
+with clear descriptions of the recommended methods and practical hints for implementation
+* a [Resources](#resources) section, containing illustrative examples from the field of Digital Pathology as well as useful tools for practical implementation for each step in the persona development process, such as for example [Templates and Pictures for Persona Visualisation](#templates).
+
+License information:   
 We have made available all these material under Creative [Commons BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) license. You can **use, redistribute, and adapt** the material for **non-commercial purposes**, as long as you give appropriate credit by **citing our paper _"Holzinger et al (2021), Personas for AI: An Open-Source Toolbox"_**.
 
 ---
 ---
-# Developing Personas for AI: Step-by-Step
-We have elaborated a 5-steps process for the development of user personas for AI:
-1. Step 1: Identification of (Potential) User Groups
-2. Step 2: Collection of Information about the Users
-3. Step 3: Consolidation and Analysis of the Collected Information
-4. Step 4: Creating the Foundation for Personas
-5. Step 5: Visualising Personas
+<h1 id="develping-personas-for-ai-step-by-step"> Developing Personas for AI: Step-by-Step </h1>
 
-## Step 1: Identification of (Potential) User Groups
+We have elaborated a 5-steps process for the development of user personas for AI:
+* [Step 1: Identification of (Potential) User Groups](#step-one)
+* [Step 2: Collection of Information about the Users](#step-two)
+* [Step 3: Consolidation and Analysis of the Collected Information](#step-three)
+* [Step 4: Creating the Foundation for Personas](#step-four)
+* [Step 5: Visualising Personas](#step-five)
+
+
+<h2 id="step-one"> Step 1: Identification of (Potential) User Groups </h2>
+
 **Aim:** Create a comprehensive list of groups of users, who will (potentially) use the AI application. Each of these user groups is the seed for a distinct persona.
 
 **Method:** We recommend to use the well-known method of _brainstorming_ for collecting ideas regarding potential user groups. After the brainstorming session, discuss and evaluate the results, and agree on a list of user groups to form the starting point for the creation of personas.
@@ -34,7 +40,10 @@ We have elaborated a 5-steps process for the development of user personas for AI
 * [Impulses for Brainstorming](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/tools/brainstorming-impulses.pdf)
 * [Example: User Groups for AI Application in Digital Pathology](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/examples/example_identified-user-groups.pdf)
 
-## Step 2: Collection of Information about (Potential) Users
+[&#8593; back to top (Step-by-Step guide)](#developing-personas-for-ai-step-by-step) 
+
+
+<h2 id="step-two"> Step 2: Collection of Information about (Potential) Users </h2>
 **Aim:** The aim of this task is threefold: (1) Get to know (potential) users personally --> Learn about their goals, motivations, frustrations, hopes, skills, education, knowledge, personal traits and aspirations. (2) Get to know (potential) use cases --> Learn about the users' tasks and find out in which context the AI application would probably be used. (3) Learn about the users' attitudes regarding AI applications, and find out under which conditions they would trust / follow machine decisions.  
 The goal is to collect relevant information regarding the following six areas:
 * Education, experience 
@@ -70,8 +79,11 @@ In a business domain, often you can retrieve valuable information about a specif
 * [Example Questionnaire - 'indirect view'](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/examples/example-questionnaires/example_questionnaire-salesrepresentative.pdf)
 * [Example Questionnaire - 'direct' and 'indirect view'](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/examples/example-questionnaires/example_questionnaire-pathologist.pdf)
 
-  
-## Step3: Consolidation \& Analysis of the Collected Information
+
+[&#8593; back to top (Step-by-Step guide)](#developing-personas-for-ai-step-by-step) 
+
+<h2 id="step-three"> Step3: Consolidation \& Analysis of the Collected Information </h2>
+
 **Aim:** The aim of this task is threefold: (1) Get an overview of the information collected. (2) Distill the important findings from the heap of information collected. (3) Decide, based on these findings, which personas to develop.
 
 **Method:** 
@@ -87,8 +99,10 @@ For every piece of information preserve the connection to its origin during the 
 **Material:**
 * [Practical Tips for Affinity Diagramming](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/tools/practical-tips-for-affinity-diagramming.pdf)
 
+[&#8593; back to top (Step-by-Step guide)](#developing-personas-for-ai-step-by-step) 
 
-## Step 4: Creating the Foundation for a Persona
+<h2 id="step-four"> Step 4: Creating the Foundation for a Persona </h2>
+
 **Aim:** The aim of this task is to gather all information for a specific persona in a structured way. 
 
 **Method:** To achieve this aim, a _Foundation Document_, as described in <sup name="PruittAdlin">[[Pruitt, Adlin]](#footnote102)</sup>,  is created for each persona. The foundation document contains all information about a persona in a structured way. The foundation document serves two purposes: (1) The structured representation of all the information collected for a persona facilitates checking for completeness --> If important pieces of information for a persona are missing, additional research can be done to fill these gaps. (2) The foundation document is the basis for any further usage of the persona, such as for example visualisation of the persona in a persona-sheet (as described in the next step), or elaboration of use cases and scenarios for the persona.
@@ -106,8 +120,10 @@ In the literature, there are many different templates and structures proposed fo
 **Material:**
 * [Example: Foundation Document for Persona "Quality Manager at Diagnostics Institute"](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/examples/example-foundation-document_QM-diagnostics-institute.pdf)
 
+[&#8593; back to top (Step-by-Step guide)](#developing-personas-for-ai-step-by-step) 
 
-## Step 5: Visualising a Persona
+<h2 id="step-five">Step 5: Visualising a Persona </h2>
+
 **Aim:** The aim of this task is to make the fictional persona a tangible character to help people empathize with the persona.
 
 **Method:** To achieve this, a _Persona Sheet_ is created. A persona sheet is the visualisation of a persona in a nice 1-page layout. The persona sheet includes narrative text about the persona's interests, values, lifestyle, attitudes and behavioural patterns based on the information from the persona's foundation document. However, in order to make the persona more realistic, also a fictional picture of the persona, a ficional name, age, and some other fictional parts (for example regarding hobbies or family) are added to the persona sheet. All these fictional parts must be chosen carefully. It must be taken care that these fictional information parts fit to the character and support communication of the persona's characteristics as described in the persona's foundation document.
@@ -131,7 +147,10 @@ For visualising a persona, do not take a picture of a real user or a picture of 
         * [LaTeX template for persona sheet in landscape format (.zip file)](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/tools/persona_sheet-templates/latex-template-persona-for-ai-landscape-v03.zip)
 * Set of Pictures for Persona Visualisation
 
-# Resources
+
+[&#8593; back to top (Step-by-Step guide)](#developing-personas-for-ai-step-by-step) 
+
+<h1 id="resources"> Resources </h1>
 
 * **Development Process of Personas for AI**  
 Paper Holzinger et al (2021) "Personas for AI: An Open-Source Toolbox"
@@ -153,12 +172,16 @@ Examples of persona sheets created for personas in Digital Pathology:
    * Persona Researcher in Pathology [(persona sheet in portrait format) ](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/examples/example-personasheets/example-personasheet-researcher_in_pathology_portrait.pdf)[(persona sheet in landscape format)](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/examples/example-personasheets/example-personasheet-researcher_in_pathology_landscape.pdf)
     * Persona Software Developer [(persona sheet in portrait format) ](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/examples/example-personasheets/example-personasheet-softwaredeveloper_portrait.pdf)[(persona sheet in landscape format)](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/examples/example-personasheets/example-personasheet-softwaredeveloper_landscape.pdf)
 
-    Templates for creating persona sheets: 
+    <h4 id="templates"> Templates for creating persona sheets: </h4>
+
     * LaTeX templates: (To use the LaTeX templates, download the zip-file and import it as a new project into [overleaf.com](https://www.overleaf.com).)
         * [LaTeX Template for persona sheet in portrait format (.zip file)](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/tools/persona_sheet-templates/latex-template-persona-for-ai-portrait-v01.zip) 
         * [LaTeX Template for persona sheet in landscape format (.zip file)](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/tools/persona_sheet-templates/latex-template-persona-for-ai-landscape-v03.zip)  
 
-    Set of Pictures for Persona Visualisation  
+    Set of Pictures for Persona Visualisation 
+
+[&#8593; back to top (Step-by-Step guide)](#developing-personas-for-ai-step-by-step) 
+
 
 
 
