@@ -104,7 +104,7 @@ In the literature, there are many different templates and structures proposed fo
 * attitudes regarding AI solutions
 
 **Material:**
-* [Example: Foundation Document for Persona "Quality Manager at Diagnostics Institute"](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/example/example-foundation-document_QM-diagnostics-institute.pdf)
+* [Example: Foundation Document for Persona "Quality Manager at Diagnostics Institute"](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/examples/example-foundation-document_QM-diagnostics-institute.pdf)
 
 
 ## Step 5: Visualising a Persona
@@ -121,7 +121,7 @@ For visualising a persona, do not take a picture of a real user or a picture of 
 
 **Material:**  
 * Examples of persona sheets created for personas in Digital Pathology:
-    * Persona Pathologist 1 [(persona sheet in portrait format) ](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/examples/example-personasheets/example-personasheet-pathologist_portrait.pdf) [(persona sheet in landscape format)](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/examples/example-personasheet-pathologist1_landscape.pdf)
+    * Persona Pathologist 1 [(persona sheet in portrait format) ](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/examples/example-personasheets/example-personasheet-pathologist_portrait.pdf) [(persona sheet in landscape format)](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/examples/example-personasheets/example-personasheet-pathologist1_landscape.pdf)
     * Persona Pathologist 2 [(persona sheet in portrait format)](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/examples/example-personasheets/example-personasheet-pathologist2_portrait.pdf) [(persona sheet in landscape format)](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/examples/example-personasheets/example-personasheet-pathologist2_landscape.pdf)
     * Persona Researcher in Pathology [(persona sheet in portrait format) ](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/examples/example-personasheets/example-personasheet-researcher_in_pathology_portrait.pdf)[(persona sheet in landscape format)](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/examples/example-personasheets/example-personasheet-researcher_in_pathology_landscape.pdf)
     * Persona Software Developer [(persona sheet in portrait format) ](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/examples/example-personasheets/example-personasheet-softwaredeveloper_portrait.pdf)[(persona sheet in landscape format)](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/examples/example-personasheets/example-personasheet-softwaredeveloper_landscape.pdf)
