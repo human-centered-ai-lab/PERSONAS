@@ -13,7 +13,7 @@ We have elaborated a 5-steps approach for developing user personas for AI. Furth
 This repository "Personas for AI" contains:
 * a detailed guide for [Developing Personas for AI: Step-by-Step](#developing-personas-for-ai-step-by-step)  
 with clear descriptions of the recommended methods and practical hints for implementation
-* a [Resources](#resources) section, containing illustrative examples from the field of Digital Pathology as well as useful tools for practical implementation for each step in the persona development process, such as for example [Templates and Pictures for Persona Visualisation](#templates).
+* a [Resources](#resources) section, containing illustrative examples from the field of Digital Pathology as well as useful tools for practical implementation for each step in the persona development process, such as for example [Templates](#templates) and [Pictures for Persona Visualisation](#pictures).
 
 License information:   
 We have made available all these material under Creative [Commons BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) license. You can **use, redistribute, and adapt** the material for **non-commercial purposes**, as long as you give appropriate credit by **citing our paper _"Holzinger et al (2021), Personas for AI: An Open-Source Toolbox"_**.
@@ -179,7 +179,7 @@ Examples of persona sheets created for personas in Digital Pathology:
         * [LaTeX Template for persona sheet in landscape format (.zip file)](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/tools/persona_sheet-templates/latex-template-persona-for-ai-landscape-v03.zip)  
 
     <h4 id="pictures"> Set of Pictures for Persona Visualisation </h4>
-    
+
 
 [&#8593; back to top (Step-by-Step guide)](#step-by-step) 
 
