@@ -127,8 +127,8 @@ For visualising a persona, do not take a picture of a real user or a picture of 
     * example: Persona Software Developer [(persona sheet in portrait format) ](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/examples/example-personasheets/example-personasheet-softwaredeveloper_portrait.pdf)[(persona sheet in landscape format)](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/examples/example-personasheets/example-personasheet-softwaredeveloper_landscape.pdf)
 * Templates for creating persona sheets:  
     * LaTeX templates: (To use the LaTeX templates, download the zip-file and import it as a new project into [overleaf](https://www.overleaf.com).)
-        * [LaTeX template (portrait format)](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/tools/latex-template-persona-for-ai-portrait-v01.zip)
-        * [LaTeX template (landscape format)](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/tools/latex-template-persona-for-ai-landscape-v03.zip)
+        * [LaTeX template (portrait format)](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/tools/templates/latex-template-persona-for-ai-portrait-v01.zip)
+        * [LaTeX template (landscape format)](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/tools/templates/latex-template-persona-for-ai-landscape-v03.zip)
 * Set of Pictures for Persona Visualisation
 
 # Resources
@@ -155,8 +155,8 @@ Examples of persona sheets created for personas in Digital Pathology:
 
     Templates for creating persona sheets: 
     * LaTeX templates: (To use the LaTeX templates, download the zip-file and import it as a new project into [Overleaf](https://www.overleaf.com).)
-        * [LaTeX Template (portrait format)](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/tools/latex-template-persona-for-ai-portrait-v01.zip) 
-        * [LaTeX Template (landscape format)](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/tools/latex-template-persona-for-ai-landscape-v03.zip)  
+        * [LaTeX Template (portrait format)](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/tools/templates/latex-template-persona-for-ai-portrait-v01.zip) 
+        * [LaTeX Template (landscape format)](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/tools/templates/latex-template-persona-for-ai-landscape-v03.zip)  
 
     Set of Pictures for Persona Visualisation  
 
