@@ -40,7 +40,6 @@ We have elaborated a 5-steps process for the development of user personas for AI
 * [Impulses for Brainstorming](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/tools/brainstorming-impulses.pdf)
 * [Example: User Groups for AI Application in Digital Pathology](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/examples/example_identified-user-groups.pdf)
 
-[&#8593; back to top (Step-by-Step guide)](#step-by-step) 
 
 
 <h2 id="step-two"> Step 2: Collection of Information about (Potential) Users </h2>
