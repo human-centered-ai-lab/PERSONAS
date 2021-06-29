@@ -20,7 +20,7 @@ We have made available all these material under Creative [Commons BY-NC 4.0](htt
 
 ---
 ---
-<h1 id="develping-personas-for-ai-step-by-step"> Developing Personas for AI: Step-by-Step </h1>
+<h1 id="step-by-step"> Developing Personas for AI: Step-by-Step </h1>
 
 We have elaborated a 5-steps process for the development of user personas for AI:
 * [Step 1: Identification of (Potential) User Groups](#step-one)
@@ -40,7 +40,7 @@ We have elaborated a 5-steps process for the development of user personas for AI
 * [Impulses for Brainstorming](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/tools/brainstorming-impulses.pdf)
 * [Example: User Groups for AI Application in Digital Pathology](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/examples/example_identified-user-groups.pdf)
 
-[&#8593; back to top (Step-by-Step guide)](#developing-personas-for-ai-step-by-step) 
+[&#8593; back to top (Step-by-Step guide)](#step-by-step) 
 
 
 <h2 id="step-two"> Step 2: Collection of Information about (Potential) Users </h2>
@@ -80,7 +80,7 @@ In a business domain, often you can retrieve valuable information about a specif
 * [Example Questionnaire - 'direct' and 'indirect view'](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/examples/example-questionnaires/example_questionnaire-pathologist.pdf)
 
 
-[&#8593; back to top (Step-by-Step guide)](#developing-personas-for-ai-step-by-step) 
+[&#8593; back to top (Step-by-Step guide)](#step-by-step) 
 
 <h2 id="step-three"> Step3: Consolidation \& Analysis of the Collected Information </h2>
 
@@ -99,7 +99,7 @@ For every piece of information preserve the connection to its origin during the 
 **Material:**
 * [Practical Tips for Affinity Diagramming](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/tools/practical-tips-for-affinity-diagramming.pdf)
 
-[&#8593; back to top (Step-by-Step guide)](#developing-personas-for-ai-step-by-step) 
+[&#8593; back to top (Step-by-Step guide)](#step-by-step) 
 
 <h2 id="step-four"> Step 4: Creating the Foundation for a Persona </h2>
 
@@ -120,7 +120,7 @@ In the literature, there are many different templates and structures proposed fo
 **Material:**
 * [Example: Foundation Document for Persona "Quality Manager at Diagnostics Institute"](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/examples/example-foundation-document_QM-diagnostics-institute.pdf)
 
-[&#8593; back to top (Step-by-Step guide)](#developing-personas-for-ai-step-by-step) 
+[&#8593; back to top (Step-by-Step guide)](#step-by-step) 
 
 <h2 id="step-five">Step 5: Visualising a Persona </h2>
 
@@ -148,7 +148,7 @@ For visualising a persona, do not take a picture of a real user or a picture of 
 * Set of Pictures for Persona Visualisation
 
 
-[&#8593; back to top (Step-by-Step guide)](#developing-personas-for-ai-step-by-step) 
+[&#8593; back to top (Step-by-Step guide)](#step-by-step) 
 
 <h1 id="resources"> Resources </h1>
 
@@ -180,7 +180,7 @@ Examples of persona sheets created for personas in Digital Pathology:
 
     Set of Pictures for Persona Visualisation 
 
-[&#8593; back to top (Step-by-Step guide)](#developing-personas-for-ai-step-by-step) 
+[&#8593; back to top (Step-by-Step guide)](#step-by-step) 
 
 
 
