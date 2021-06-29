@@ -178,7 +178,8 @@ Examples of persona sheets created for personas in Digital Pathology:
         * [LaTeX Template for persona sheet in portrait format (.zip file)](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/tools/persona_sheet-templates/latex-template-persona-for-ai-portrait-v01.zip) 
         * [LaTeX Template for persona sheet in landscape format (.zip file)](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/tools/persona_sheet-templates/latex-template-persona-for-ai-landscape-v03.zip)  
 
-    Set of Pictures for Persona Visualisation 
+    <h4 id="pictures"> Set of Pictures for Persona Visualisation </h4>
+    
 
 [&#8593; back to top (Step-by-Step guide)](#step-by-step) 
 
