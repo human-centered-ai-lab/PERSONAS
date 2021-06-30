@@ -7,4 +7,4 @@ To facilitate and inspire user information collection, we provide REDCap&reg; [Q
 
 ## Images of Faces to Support Persona Visualisation
 
-We provide a large set of free [Images of Faces](https://github.com/human-centered-ai-lab/PERSONAS/tree/main/Resources/Faces) comprising different gender, age, emotions, and styles. These images are suitable for visualising a wide range of different personas. 
+We provide a large set of free [Images of Faces](https://github.com/human-centered-ai-lab/PERSONAS/tree/main/Resources/Faces), which are suitable for visualising a wide range of different personas as they comprise different gender, age, emotions, and styles. 
