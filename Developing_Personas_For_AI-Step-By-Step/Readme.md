@@ -160,6 +160,7 @@ Paper Holzinger et al (2021) "Personas for AI: An Open-Source Toolbox"
 * **Step 5: Visualising a Persona**  
 [Examples of persona sheets created for personas in Digital Pathology](https://github.com/human-centered-ai-lab/PERSONAS/tree/main/Examples_For_AI_In_Digital_Pathology/example-personasheets)  
 [Templates for Creating Persona Sheets](https://github.com/human-centered-ai-lab/PERSONAS/tree/main/Persona_Templates)   
+[Set of Faces for Persona Visualisation](https://github.com/human-centered-ai-lab/PERSONAS/tree/main/Resources/Faces)
 
 
 
