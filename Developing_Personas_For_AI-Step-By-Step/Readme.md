@@ -4,19 +4,22 @@
 In principle, there exist two fundamentally different approaches for creating personas: data-driven persona development and manual persona development. Data-driven persona development needs large amounts of user data (big data) to be useful, and thus for many use cases manual persona development using merely qualitative data is a better choice <sup name="a2">[[2]](#footnote2)</sup>. 
 In this repository we describe our approach for manual persona development to support human-centered design and development of AI applications. We give clear explanations of the recommended methods and practical hints for implementation. For each step in the persona development process, we provide illustrative examples from the field of Digital Pathology as well as useful, ready-to-use tools. 
 
-
-We have elaborated a 5-steps process for the development of user personas for AI:
-* [Step 1: Identification of (Potential) User Groups](#step-one)
-* [Step 2: Collection of Information about the Users](#step-two)
-* [Step 3: Consolidation and Analysis of the Collected Information](#step-three)
-* [Step 4: Creating the Foundation for Personas](#step-four)
-* [Step 5: Visualising Personas](#step-five)
-
 ---
 
 **License information:**  
 We have made available all these material under [Creative Commons BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) license.  
 You can **use, redistribute, and adapt** the material for non-commercial purposes, as long as you give appropriate credit by **citing our paper "Holzinger et al (2021), Personas for AI: An Open-Source Toolbox".**
+
+---
+---
+
+
+## 5-Steps Towards User Personas for AI:
+* [Step 1: Identification of (Potential) User Groups](#step-one)
+* [Step 2: Collection of Information about the Users](#step-two)
+* [Step 3: Consolidation and Analysis of the Collected Information](#step-three)
+* [Step 4: Creating the Foundation for Personas](#step-four)
+* [Step 5: Visualising Personas](#step-five)
 
 ---
 
@@ -32,7 +35,7 @@ You can **use, redistribute, and adapt** the material for non-commercial purpose
 * [Example: User Groups for AI Application in Digital Pathology](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/Examples_For_AI_In_Digital_Pathology/example_identified-user-groups.pdf)
 
 
-
+---
 <h2 id="step-two"> Step 2: Collection of Information about (Potential) Users </h2>
 
 **Aim:**  The aim of this task is threefold: (1) Get to know (potential) users personally --> Learn about their goals, motivations, frustrations, hopes, skills, education, knowledge, personal traits and aspirations. (2) Get to know (potential) use cases --> Learn about the users' tasks and find out in which context the AI application would probably be used. (3) Learn about the users' attitudes regarding AI applications, and find out under which conditions they would trust / follow machine decisions.  
@@ -73,6 +76,7 @@ In a business domain, often you can retrieve valuable information about a specif
 
 [&#8593; back to top (Step-by-Step guide)](#step-by-step) 
 
+---
 <h2 id="step-three"> Step3: Consolidation & Analysis of the Collected Information </h2>
 
 **Aim:** The aim of this task is threefold: (1) Get an overview of the information collected. (2) Distill the important findings from the heap of information collected. (3) Decide, based on these findings, which personas to develop.
@@ -92,6 +96,7 @@ For every piece of information preserve the connection to its origin during the 
 
 [&#8593; back to top (Step-by-Step guide)](#step-by-step) 
 
+---
 <h2 id="step-four"> Step 4: Creating the Foundation for a Persona </h2>
 
 **Aim:** The aim of this task is to gather all information for a specific persona in a structured way. 
@@ -113,6 +118,7 @@ In the literature, there are many different templates and structures proposed fo
 
 [&#8593; back to top (Step-by-Step guide)](#step-by-step) 
 
+---
 <h2 id="step-five">Step 5: Visualising a Persona </h2>
 
 **Aim:** The aim of this task is to make the fictional persona a tangible character to help people empathize with the persona.
@@ -134,6 +140,8 @@ For visualising a persona, do not take a picture of a real user or a picture of 
 
 [&#8593; back to top (Step-by-Step guide)](#step-by-step) 
 
+---
+---
 <h1 id="resources"> Resources </h1>
 
 * **Development Process of Personas for AI**  
