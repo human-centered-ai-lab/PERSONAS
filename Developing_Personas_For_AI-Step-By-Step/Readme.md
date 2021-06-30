@@ -1,26 +1,9 @@
-# Personas for AI
 
-**_Personas_** have been successful for over two decades in supporting the development of classic user interfaces by mapping users' mental models to specific contexts.  You can find more information about the personas method in <sup name="Nielsen">[[Nielsen]](#footnote100)</sup>.
-
-However, the rapid proliferation of Artificial Intelligence (AI) applications makes it necessary to create new approaches for future human-AI interfaces. Human-AI interfaces differ from classical human-computer interfaces in many ways, e.g., in that they acquire some degree of human-like cognitive, self-executing, and self-adaptive capabilities and autonomy, and generate unexpected outputs, requiring interactions that are non-deterministic. Furthermore, the most successful AI approaches are so-called "black-box" systems, where the technology and machine learning process are opaque to the user and the AI output is non-intuitive. Thus, when it comes to AI applications, often _causability_ <sup name="a1">[[1]](#footnote1)</sup> is added to the users' needs: Specifically in high-stake domains, such as for example in medicine,  users need to understand the rationale and certainty underlying the results delivered by an AI application. Therefore, in order to achieve useful AI solutions with high usability and causability, **it is essential that AI applications are designed and developed with the users in mind** (human-centered AI). To support such human-centered design and development of AI applications and to help foster the development of novel human-AI interfaces that will be urgently needed in the future, we provide this open available "Personas for AI toolbox". 
+<h1 id="step-by-step"> Developing Personas for AI: Step-by-Step </h1>
 
 In principle, there exist two fundamentally different approaches for creating personas: data-driven persona development and manual persona development. Data-driven persona development needs large amounts of user data (big data) to be useful, and thus for many use cases manual persona development using merely qualitative data is a better choice <sup name="a2">[[2]](#footnote2)</sup>. 
-In this repository we describe our approach for manual persona development to support human-centered design and development of AI applications. 
+In this repository we describe our approach for manual persona development to support human-centered design and development of AI applications. We give clear explanations of the recommended methods and practical hints for implementation. For each step in the persona development process, we provide illustrative examples from the field of Digital Pathology as well as useful, ready-to-use tools. 
 
-# About this Repository
-We have elaborated a 5-steps approach for developing user personas for AI. Furthermore, based on our experience from practical implementation of the personas development process, we have created free material and tools to facilitate development of user personas for AI. 
-
-This repository "Personas for AI" contains:
-* a detailed guide for [Developing Personas for AI: Step-by-Step](#developing-personas-for-ai-step-by-step)  
-with clear descriptions of the recommended methods and practical hints for implementation
-* a [Resources](#resources) section, containing illustrative examples from the field of Digital Pathology as well as useful tools for practical implementation for each step in the persona development process, such as for example [Templates](#templates) and [Pictures for Persona Visualisation](#pictures).
-
-License information:   
-We have made available all these material under Creative [Commons BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) license. You can **use, redistribute, and adapt** the material for **non-commercial purposes**, as long as you give appropriate credit by **citing our paper _"Holzinger et al (2021), Personas for AI: An Open-Source Toolbox"_**.
-
----
----
-<h1 id="step-by-step"> Developing Personas for AI: Step-by-Step </h1>
 
 We have elaborated a 5-steps process for the development of user personas for AI:
 * [Step 1: Identification of (Potential) User Groups](#step-one)
@@ -28,6 +11,13 @@ We have elaborated a 5-steps process for the development of user personas for AI
 * [Step 3: Consolidation and Analysis of the Collected Information](#step-three)
 * [Step 4: Creating the Foundation for Personas](#step-four)
 * [Step 5: Visualising Personas](#step-five)
+
+---
+
+License information:  
+We have made available all these material under [Creative Commons BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) license. You can use, redistribute, and adapt the material for non-commercial purposes, as long as you give appropriate credit by citing our paper "Holzinger et al (2021), Personas for AI: An Open-Source Toolbox".
+
+---
 
 
 <h2 id="step-one"> Step 1: Identification of (Potential) User Groups </h2>
