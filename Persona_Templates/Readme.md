@@ -1,9 +1,10 @@
 
 # Templates for Persona Visualisation
 
-We have created ready-to-use templates for visualising a persona in two different styles, in landscape and portrait format. 
+We have created ready-to-use templates for visualising a persona in two different styles, in landscape and portrait format: 
 
-<img src="https://github.com/human-centered-ai-lab/PERSONAS/blob/main/Developing_Personas_For_AI-Step-By-Step/images/persona-pathologist1.png" alt="example persona sheet in portrait format" width="200"> <img src=https://github.com/human-centered-ai-lab/PERSONAS/blob/main/Developing_Personas_For_AI-Step-By-Step/images/persona-softwaredeveloper.png alt="example persona sheet in landscape format" height="200">
+<img src="https://github.com/human-centered-ai-lab/PERSONAS/blob/main/Developing_Personas_For_AI-Step-By-Step/images/persona-pathologist1.png" alt="example persona sheet in portrait format" width="200"> - 
+<img src=https://github.com/human-centered-ai-lab/PERSONAS/blob/main/Developing_Personas_For_AI-Step-By-Step/images/persona-softwaredeveloper.png alt="example persona sheet in landscape format" height="200">
 
 
 
