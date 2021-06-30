@@ -171,31 +171,3 @@ Paper Holzinger et al (2021) "Personas for AI: An Open-Source Toolbox"
 # License
 All material is made available under [Creative Commons BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) license by Human-Centered AI Lab / Research and Diagnostics Institute of Pathology at Medical University Graz. You can **use, redistribute, and adapt** the material for **non-commercial purposes**, as long as you give appropriate credit by **citing our paper _Holzinger et al (2021) "Personas for AI: An Open-Source Toolbox"_**.
 
----
----
-# Further Reading
-
-## Papers
-
-<a name="footnote1">[[1]](https://github.com/human-centered-ai-lab/PERSONAS#a1)</a> A. Holzinger, Explainable AI and multi-modal causability in medicine, i-com19(3). [doi:10.1515/icom-2020-0024](https://doi.org/10.1515/icom-2020-0024)
-
-<a name="footnote2">[[2]](#a2)</a> J. Salminen, K. Guan, S.-G. Jung, B. J. Jansen, A survey of 15 years of data-driven persona development, International Journal of Human Computer Interaction (2021) 1-24. [doi:10.1080/10447318.2021.1908670](https://doi.org/10.1080/10447318.2021.1908670)
-
-<a name="footnote3">[[3]](#a3)</a> N. Marsden, M. Pröbster, Personas and identity: Looking at multiple identities to inform the construction of personas, in: Conference on Human
-Factors in Computing Systems CHI 2019 - Proceedings, Association for Computing Machinery, 2019. [doi:10.1145/3290605.3300565](https://doi.org/10.1145/3290605.3300565)
-
-<a name="footnote4">[[4]](#a4)</a> J. Salminen, S.-G. Jung, J. M. Santos, A. M. S. Kamel, B. J. Jansen, Picturing it!: The effect of image styles on user perceptions of personas, in:
-Proceedings CHI '21, Association for Computing Machinery (ACM), 2021,
-pp. 1-16. [doi:10.1145/3411764.3445360](https://doi.org/10.1145/3411764.3445360)
-
-<a name="footnote5">[[5]](#a5)</a> M. Pröbster, J. Hermann, N. Marsden, Personas and persons - an empirical study on stereotyping of personas, ACM International Conference
-Proceeding Series (2019) 137-146. [doi:10.1145/3340764.3340771](https://doi.org/10.1145/3340764.3340771)
-
-
-## Books
-
-<a name="footnote100">[[Nielsen]](https://github.com/human-centered-ai-lab/PERSONAS#Nielsen)</a> L. Nielsen, Personas - User Focused Design, Springer London, 2019. [doi: 10.1007/978-1-4471-7427-1](https://doi.org/10.1007/978-1-4471-7427-1)
-
-<a name="footnote101">[[Cooper, Reimann]](#CooperReimann)</a> A. Cooper, R. Reimann, About Face 2.0 - The Essentials of Interaction Design, John Wiley & Sons, 2003. Published online 2006: [https://flylib.com/books/en/2.153.1](https://flylib.com/books/en/2.153.1/)
-
-<a name="footnote102">[[Pruitt, Adlin]](#PruittAdlin)</a> J. Pruitt, T. Adlin, The Persona Lifecycle: Keeping People in Mind Throughout Product Design, Morgan Kaufmann Publishers Inc., San Francisco, 2006, ISBN:978-0-12-566251-2
