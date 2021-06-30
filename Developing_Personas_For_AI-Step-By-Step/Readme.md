@@ -177,7 +177,7 @@ All material is made available under [Creative Commons BY-NC 4.0](https://creati
 
 ## Papers
 
-<a name="footnote1">[[1]](#a1)</a> A. Holzinger, Explainable AI and multi-modal causability in medicine, i-com19(3). [doi:10.1515/icom-2020-0024](https://doi.org/10.1515/icom-2020-0024)
+<a name="footnote1">[[1]](https://github.com/human-centered-ai-lab/PERSONAS#a1)</a> A. Holzinger, Explainable AI and multi-modal causability in medicine, i-com19(3). [doi:10.1515/icom-2020-0024](https://doi.org/10.1515/icom-2020-0024)
 
 <a name="footnote2">[[2]](#a2)</a> J. Salminen, K. Guan, S.-G. Jung, B. J. Jansen, A survey of 15
 years of data-driven persona development, International Journal of Human Computer Interaction (2021) 1-24. [doi:10.1080/10447318.2021.1908670](https://doi.org/10.1080/10447318.2021.1908670)
