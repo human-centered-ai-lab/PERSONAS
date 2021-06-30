@@ -1,12 +1,12 @@
 
 # Templates for Persona Visualisation
 
-We have created ready-to-use templates for visualising a persona in two different styles, in landscape and portrait format. Color themes, texts and pictures of the templates can easily be changed and adjusted to your needs.
+We have created ready-to-use templates for visualising a persona in two different styles, in landscape and portrait format. Color themes, texts and pictures of the templates can easily be changed and adjusted to your needs. The templates are available for LaTeX and for MS PowerPoint.
 
 <img src="https://github.com/human-centered-ai-lab/PERSONAS/blob/main/Developing_Personas_For_AI-Step-By-Step/images/persona-pathologist1.png" alt="example persona sheet in portrait format" width="200" border="1px solid #555"> - 
 <img src=https://github.com/human-centered-ai-lab/PERSONAS/blob/main/Developing_Personas_For_AI-Step-By-Step/images/persona-softwaredeveloper.png alt="example persona sheet in landscape format" height="200" border="1px solid #555">
 
-The templates are available for LaTeX and for MS PowerPoint.
+
 
 ---
 
