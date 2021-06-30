@@ -15,7 +15,8 @@ We have elaborated a 5-steps process for the development of user personas for AI
 ---
 
 **License information:**  
-We have made available all these material under [Creative Commons BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) license. You can use, redistribute, and adapt the material for non-commercial purposes, as long as you give appropriate credit by citing our paper "Holzinger et al (2021), Personas for AI: An Open-Source Toolbox".
+We have made available all these material under [Creative Commons BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) license.  
+You can **use, redistribute, and adapt** the material for non-commercial purposes, as long as you give appropriate credit by **citing our paper "Holzinger et al (2021), Personas for AI: An Open-Source Toolbox".**
 
 ---
 
