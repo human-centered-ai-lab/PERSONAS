@@ -14,7 +14,7 @@ We have elaborated a 5-steps process for the development of user personas for AI
 
 ---
 
-License information:  
+**License information:**  
 We have made available all these material under [Creative Commons BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) license. You can use, redistribute, and adapt the material for non-commercial purposes, as long as you give appropriate credit by citing our paper "Holzinger et al (2021), Personas for AI: An Open-Source Toolbox".
 
 ---
@@ -27,13 +27,14 @@ We have made available all these material under [Creative Commons BY-NC 4.0](htt
 **Method:** We recommend to use the well-known method of _brainstorming_ for collecting ideas regarding potential user groups. After the brainstorming session, discuss and evaluate the results, and agree on a list of user groups to form the starting point for the creation of personas.
 
 **Material:**
-* [Impulses for Brainstorming](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/tools/brainstorming-impulses.pdf)
-* [Example: User Groups for AI Application in Digital Pathology](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/examples/example_identified-user-groups.pdf)
+* [Impulses for Brainstorming](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/Developing_Personas_For_AI-Step-By-Step/brainstorming-impulses.pdf)
+* [Example: User Groups for AI Application in Digital Pathology](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/Examples_For_AI_In_Digital_Pathology/example_identified-user-groups.pdf)
 
 
 
 <h2 id="step-two"> Step 2: Collection of Information about (Potential) Users </h2>
-**Aim:** The aim of this task is threefold: (1) Get to know (potential) users personally --> Learn about their goals, motivations, frustrations, hopes, skills, education, knowledge, personal traits and aspirations. (2) Get to know (potential) use cases --> Learn about the users' tasks and find out in which context the AI application would probably be used. (3) Learn about the users' attitudes regarding AI applications, and find out under which conditions they would trust / follow machine decisions.  
+
+**Aim:**  The aim of this task is threefold: (1) Get to know (potential) users personally --> Learn about their goals, motivations, frustrations, hopes, skills, education, knowledge, personal traits and aspirations. (2) Get to know (potential) use cases --> Learn about the users' tasks and find out in which context the AI application would probably be used. (3) Learn about the users' attitudes regarding AI applications, and find out under which conditions they would trust / follow machine decisions.  
 The goal is to collect relevant information regarding the following six areas:
 * Education, experience 
 * Tasks, workflows, work context
@@ -64,14 +65,14 @@ In interviews and questionnaires members of a user group are asked about their _
 In a business domain, often you can retrieve valuable information about a specific job/role from job descriptions posted on websites of educational institutions or from job advertisements posted by companies. Interesting information regarding education, skills and careers of people working in a specific job/role can be retrieved from social media profiles. This information can be used to complete/complement information gained from members of the user group through interviews or questionnaires.
 
 **Material:**  
-* [Example Interview Guidelines](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/examples/example_interview-guideline-QM-diagnostics-institute.pdf)
-* [Example Questionnaire - 'indirect view'](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/examples/example-questionnaires/example_questionnaire-salesrepresentative.pdf)
-* [Example Questionnaire - 'direct' and 'indirect view'](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/examples/example-questionnaires/example_questionnaire-pathologist.pdf)
+* [Example Interview Guidelines](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/Examples_For_AI_In_Digital_Pathology/example_interview-guideline-QM-diagnostics-institute.pdf)
+* [Example Questionnaire - 'indirect view'](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/Examples_For_AI_In_Digital_Pathology/example-questionnaires/example_questionnaire-salesrepresentative.pdf)
+* [Example Questionnaire - 'direct' and 'indirect view'](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/Examples_For_AI_In_Digital_Pathology/example-questionnaires/example_questionnaire-pathologist.pdf)
 
 
 [&#8593; back to top (Step-by-Step guide)](#step-by-step) 
 
-<h2 id="step-three"> Step3: Consolidation \& Analysis of the Collected Information </h2>
+<h2 id="step-three"> Step3: Consolidation & Analysis of the Collected Information </h2>
 
 **Aim:** The aim of this task is threefold: (1) Get an overview of the information collected. (2) Distill the important findings from the heap of information collected. (3) Decide, based on these findings, which personas to develop.
 
@@ -86,7 +87,7 @@ In a business domain, often you can retrieve valuable information about a specif
 For every piece of information preserve the connection to its origin during the whole process of organising, structuring, splitting, combining and condensing of the information. This can for example be done by assigning a brief ID to each information source and marking the information with the respective ID of its source (e.g. interviewee 1 gets the ID i001 and this ID is appended to all statements from interviewee 1).  This will help to find out grouping characteristics later on in the project. Furthermore, knowledge about the source of the information can also increase people's confidence and commitment later on, when working with a persona.
 
 **Material:**
-* [Practical Tips for Affinity Diagramming](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/tools/practical-tips-for-affinity-diagramming.pdf)
+* [Practical Tips for Affinity Diagramming](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/Developing_Personas_For_AI-Step-By-Step/practical-tips-for-affinity-diagramming.pdf)
 
 [&#8593; back to top (Step-by-Step guide)](#step-by-step) 
 
@@ -121,20 +122,13 @@ In the literature, there are many different templates and structures proposed fo
 A central part of the persona sheet is the fictional picture of the persona, visualising the persona as a tangible person. A realistic picture increases empathy with the persona <sup name="a4">[[4]](#footnote4)</sup>. However, how people perceive a persona picture is strongly dependent on their gender or cultural background, and details conveyed by this picture (such as age, gender, social status, cultural background...) can activate stereotypes <sup name="a5">[[5]](#footnote5)</sup>. Therefore, it is of utmost importance that the picture is selected carefully, so to avoid stereotyping and help to convey the characteristic aspects of the persona, as described in the persona's foundation document.   
 For visualising a persona, do not take a picture of a real user or a picture of a person from your network (e.g. colleagues, family or friends). You could take a picture from internet, which is published under a license that allows usage for this purpose.  However, we have found that it is rather difficult to get such photos, which are suitable for persona visualisation. To solve this problem, we have created a set of fictional pictures, which are suitable for visualisation of personas for AI, using the code from [thispersondoesnotexist.com](https://thispersondoesnotexist.com/).
 
-<img src="https://github.com/human-centered-ai-lab/PERSONAS/blob/main/images/persona-pathologist1.png" alt="example persona sheet in portrait format" width="200"> <img src="https://github.com/human-centered-ai-lab/PERSONAS/blob/main/images/persona-softwaredeveloper.png" alt="example persona sheet in landscape format" height="200">
+<img src="https://github.com/human-centered-ai-lab/PERSONAS/blob/main/Developing_Personas_For_AI-Step-By-Step/images/persona-pathologist1.png" alt="example persona sheet in portrait format" width="200"> <img src=https://github.com/human-centered-ai-lab/PERSONAS/blob/main/Developing_Personas_For_AI-Step-By-Step/images/persona-softwaredeveloper.png alt="example persona sheet in landscape format" height="200">
 
 
 **Material:**  
-* Examples of persona sheets created for personas in Digital Pathology:
-    * Persona Pathologist 1 [(persona sheet in portrait format) ](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/examples/example-personasheets/example-personasheet-pathologist1_portrait.pdf) [(persona sheet in landscape format)](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/examples/example-personasheets/example-personasheet-pathologist1_landscape.pdf)
-    * Persona Pathologist 2 [(persona sheet in portrait format)](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/examples/example-personasheets/example-personasheet-pathologist2_portrait.pdf) [(persona sheet in landscape format)](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/examples/example-personasheets/example-personasheet-pathologist2_landscape.pdf)
-    * Persona Researcher in Pathology [(persona sheet in portrait format) ](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/examples/example-personasheets/example-personasheet-researcher_in_pathology_portrait.pdf)[(persona sheet in landscape format)](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/examples/example-personasheets/example-personasheet-researcher_in_pathology_landscape.pdf)
-    * Persona Software Developer [(persona sheet in portrait format) ](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/examples/example-personasheets/example-personasheet-softwaredeveloper_portrait.pdf)[(persona sheet in landscape format)](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/examples/example-personasheets/example-personasheet-softwaredeveloper_landscape.pdf)
-* Templates for creating persona sheets:  
-    * LaTeX templates: (To use the LaTeX templates, download the zip-file and import it as a new project into [overleaf.com](https://www.overleaf.com).)
-        * [LaTeX template for persona sheet in portrait format (.zip file)](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/tools/persona_sheet-templates/latex-template-persona-for-ai-portrait-v01.zip)
-        * [LaTeX template for persona sheet in landscape format (.zip file)](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/tools/persona_sheet-templates/latex-template-persona-for-ai-landscape-v03.zip)
-* Set of Pictures for Persona Visualisation
+* [Examples of persona sheets created for personas in Digital Pathology](https://github.com/human-centered-ai-lab/PERSONAS/tree/main/Examples_For_AI_In_Digital_Pathology/example-personasheets)
+* [Templates for creating persona sheets](https://github.com/human-centered-ai-lab/PERSONAS/tree/main/Persona_Templates)
+* [Set of Faces for Persona Visualisation](https://github.com/human-centered-ai-lab/PERSONAS/tree/main/Resources/Faces)
 
 
 [&#8593; back to top (Step-by-Step guide)](#step-by-step) 
@@ -144,46 +138,29 @@ For visualising a persona, do not take a picture of a real user or a picture of 
 * **Development Process of Personas for AI**  
 Paper Holzinger et al (2021) "Personas for AI: An Open-Source Toolbox"
 * **Step 1: Identification of (Potential) User Groups**  
-[Impulses for Brainstorming](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/tools/brainstorming-impulses.pdf)  
-[Example: User Groups for AI Application in Digital Pathology](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/examples/example_identified-user-groups.pdf)  
+[Impulses for Brainstorming](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/Developing_Personas_For_AI-Step-By-Step/brainstorming-impulses.pdf)  
+[Example: User Groups for AI Application in Digital Pathology](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/Examples_For_AI_In_Digital_Pathology/example_identified-user-groups.pdf)  
 * **Step 2: Collection of Information about the (Potential) Users**  
-[Example Interview Guidelines](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/examples/example_interview-guideline-QM-diagnostics-institute.pdf)  
-[Example Questionnaire - 'indirect view'](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/examples/example-questionnaires/example_questionnaire-salesrepresentative.pdf)  
-[Example Questionnaire - 'direct' and 'indirect view'](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/examples/example-questionnaires/example_questionnaire-pathologist.pdf)  
-* **Step 3: Consolidation \& Analysis of the Collected Information**  
-[Practical Tips for Affinity Diagramming](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/tools/practical-tips-for-affinity-diagramming.pdf)  
+[Example Interview Guidelines](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/Examples_For_AI_In_Digital_Pathology/example_interview-guideline-QM-diagnostics-institute.pdf)  
+[Example Questionnaire - 'indirect view'](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/Examples_For_AI_In_Digital_Pathology/example-questionnaires/example_questionnaire-salesrepresentative.pdf)  
+[Example Questionnaire - 'direct' and 'indirect view'](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/Examples_For_AI_In_Digital_Pathology/example-questionnaires/example_questionnaire-pathologist.pdf)  
+* **Step 3: Consolidation & Analysis of the Collected Information**  
+[Practical Tips for Affinity Diagramming](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/Developing_Personas_For_AI-Step-By-Step/practical-tips-for-affinity-diagramming.pdf)  
 * **Step 4: Creating the Foundation for a Persona**  
-[Example: Foundation Document for Persona "Quality Manager at Diagnostics Institute"](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/examples/example-foundation-document_QM-diagnostics-institute.pdf)  
+[Example: Foundation Document for Persona "Quality Manager at Diagnostics Institute"](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/Examples_For_AI_In_Digital_Pathology/example-foundation-document_QM-diagnostics-institute.pdf)  
 * **Step 5: Visualising a Persona**  
-Examples of persona sheets created for personas in Digital Pathology: 
-   * Persona Pathologist 1 [(persona sheet in portrait format) ](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/examples/example-personasheets/example-personasheet-pathologist_portrait.pdf) [(persona sheet in landscape format)](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/examples/example-personasheets/example-personasheet-pathologist1_landscape.pdf)
-   * Persona Pathologist 2 [(persona sheet in portrait format)](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/examples/example-personasheets/example-personasheet-pathologist2_portrait.pdf) [(persona sheet in landscape format)](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/examples/example-personasheets/example-personasheet-pathologist2_landscape.pdf)
-   * Persona Researcher in Pathology [(persona sheet in portrait format) ](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/examples/example-personasheets/example-personasheet-researcher_in_pathology_portrait.pdf)[(persona sheet in landscape format)](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/examples/example-personasheets/example-personasheet-researcher_in_pathology_landscape.pdf)
-    * Persona Software Developer [(persona sheet in portrait format) ](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/examples/example-personasheets/example-personasheet-softwaredeveloper_portrait.pdf)[(persona sheet in landscape format)](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/examples/example-personasheets/example-personasheet-softwaredeveloper_landscape.pdf)
+[Examples of persona sheets created for personas in Digital Pathology](https://github.com/human-centered-ai-lab/PERSONAS/tree/main/Examples_For_AI_In_Digital_Pathology/example-personasheets)  
+[Templates for Creating Persona Sheets](https://github.com/human-centered-ai-lab/PERSONAS/tree/main/Persona_Templates)   
 
-    <h4 id="templates"> Templates for creating persona sheets: </h4>
-
-    * LaTeX templates: (To use the LaTeX templates, download the zip-file and import it as a new project into [overleaf.com](https://www.overleaf.com).)
-        * [LaTeX Template for persona sheet in portrait format (.zip file)](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/tools/persona_sheet-templates/latex-template-persona-for-ai-portrait-v01.zip) 
-        * [LaTeX Template for persona sheet in landscape format (.zip file)](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/tools/persona_sheet-templates/latex-template-persona-for-ai-landscape-v03.zip)  
-
-    <h4 id="pictures"> Set of Pictures for Persona Visualisation </h4>
 
 
 [&#8593; back to top (Step-by-Step guide)](#step-by-step) 
-
-
 
 
 ---
 ---
 # License
 All material is made available under [Creative Commons BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) license by Human-Centered AI Lab / Research and Diagnostics Institute of Pathology at Medical University Graz. You can **use, redistribute, and adapt** the material for **non-commercial purposes**, as long as you give appropriate credit by **citing our paper _Holzinger et al (2021) "Personas for AI: An Open-Source Toolbox"_**.
-
----
----
-# Acknowledgements
-Parts of this work have received funding from the European Union's Horizon 2020 research and innovation programme under grant agreement No. 857122 (CY-Biobank), No. 824087 (EOSC-Life) and No. 874662 (HEAP). This publication reflects only the authors' view and the European Commission is not responsible for any use that may be made of the information it contains. Parts of this work have received funding from the Austrian Research Promotion Agency (FFG) under grant agreement No. 879881 (EMPAIA) and by the Austrian Science Fund (FWF), Project: P-32554 explainable Artificial Intelligence.
 
 ---
 ---
