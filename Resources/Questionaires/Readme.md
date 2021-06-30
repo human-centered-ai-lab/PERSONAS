@@ -8,3 +8,8 @@ Be aware of the fact that in any survey, where the participants cannot be chosen
 We provide two questionnaire templates created with [REDCap&reg;](https://www.project-redcap.org/), a web application for building and managing online surveys, which is widely used in the sientific community. 
 
 To use one of these templates, download the respective .zip file and upload it as a new instrument into your REDCap&reg;  project.
+
+[REDCap questionnaire for pathologists (.zip file)](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/Resources/Questionaires/REDCap_example-questionnaire_pathologist.zip)
+
+[REDCap questionnaire for sales representatives (.zip file)](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/Resources/Questionaires/REDCap_example-questionnaire_sales-representative.zip)
+
