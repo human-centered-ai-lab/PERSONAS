@@ -114,7 +114,7 @@ In the literature, there are many different templates and structures proposed fo
 * attitudes regarding AI solutions
 
 **Material:**
-* [Example: Foundation Document for Persona "Quality Manager at Diagnostics Institute"](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/examples/example-foundation-document_QM-diagnostics-institute.pdf)
+* [Example: Foundation Document for Persona "Quality Manager at Diagnostics Institute"](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/Examples_For_AI_In_Digital_Pathology/example-foundation-document_QM-diagnostics-institute.pdf)
 
 [&#8593; back to top (Step-by-Step guide)](#step-by-step) 
 
