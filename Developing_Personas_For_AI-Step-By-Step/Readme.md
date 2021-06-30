@@ -195,7 +195,7 @@ Proceeding Series (2019) 137-146. [doi:10.1145/3340764.3340771](https://doi.org/
 
 ## Books
 
-<a name="footnote100">[[Nielsen]](https://github.com/human-centered-ai-lab/PERSONAS/tree/main/Developing_Personas_For_AI-Step-By-Step/#Nielsen)</a> L. Nielsen, Personas - User Focused Design, Springer London, 2019. [doi: 10.1007/978-1-4471-7427-1](https://doi.org/10.1007/978-1-4471-7427-1)
+<a name="footnote100">[[Nielsen]](https://github.com/human-centered-ai-lab/PERSONAS#Nielsen)</a> L. Nielsen, Personas - User Focused Design, Springer London, 2019. [doi: 10.1007/978-1-4471-7427-1](https://doi.org/10.1007/978-1-4471-7427-1)
 
 <a name="footnote101">[[Cooper, Reimann]](#CooperReimann)</a> A. Cooper, R. Reimann, About Face 2.0 - The Essentials of Interaction Design, John Wiley & Sons, 2003. Published online 2006: [https://flylib.com/books/en/2.153.1](https://flylib.com/books/en/2.153.1/)
 
