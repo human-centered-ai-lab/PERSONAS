@@ -7,13 +7,14 @@ However, the rapid proliferation of Artificial Intelligence (AI) applications ma
 
 
 # About this Repository
-In this repository we describe our approach for persona development to support human-centered design and development of AI applications. We have elaborated a 5-steps approach for developing user personas for AI. Furthermore, based on our experience from practical implementation of the personas development process, we have created free material and tools to facilitate development of user personas for AI. 
+In this repository we describe our approach for user persona development to support human-centered design and development of AI applications.  Furthermore, based on our experience from practical implementation of the personas development process, we have created free material and tools to facilitate development of user personas for AI. 
 
-This repository "Personas for AI" contains:
-* A detailed [step-by-step guide for developing personas for AI](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/Developing_Personas_For_AI-Step-By-Step)  with clear descriptions of the recommended methods and practical hints for implementation.
-* Illustrative practical [examples from the field of Digital Pathology](https://github.com/human-centered-ai-lab/PERSONAS/tree/main/Examples_For_AI_In_Digital_Pathology).
-* Ready-to-use [templates for visualising personas](https://github.com/human-centered-ai-lab/PERSONAS/tree/main/Persona_Templates) in LaTeX and MS PowerPoint.
-* A large set of [pictures of faces](https://github.com/human-centered-ai-lab/PERSONAS/tree/main/Resources/Faces), which can be used freely for persona visualisation.
+**This repository "Personas for AI" contains:**
+* A detailed [**step-by-step guide for developing personas for AI**](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/Developing_Personas_For_AI-Step-By-Step)  with clear descriptions of the recommended methods and practical hints for implementation.
+* Illustrative [**practical examples from the field of Digital Pathology**](https://github.com/human-centered-ai-lab/PERSONAS/tree/main/Examples_For_AI_In_Digital_Pathology).
+* Ready-to-use [**templates for visualising personas**](https://github.com/human-centered-ai-lab/PERSONAS/tree/main/Persona_Templates) in LaTeX and MS PowerPoint.
+* A large set of [**pictures of faces**](https://github.com/human-centered-ai-lab/PERSONAS/tree/main/Resources/Faces), which can be used freely for persona visualisation.
+* RedCap [**questionnaire templates**](https://github.com/human-centered-ai-lab/PERSONAS/tree/main/Resources/Questionaires), which can easily be customised for collection of user information in different application fields of AI. 
 
 
 ---
