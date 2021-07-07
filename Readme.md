@@ -25,7 +25,12 @@ All material is made available under [Creative Commons BY-NC 4.0](https://creati
 ---
 ---
 # Acknowledgements
-Parts of this work have received funding from the European Union's Horizon 2020 research and innovation programme under grant agreement No. 857122 (CY-Biobank), No. 824087 (EOSC-Life) and No. 874662 (HEAP). This publication reflects only the authors' view and the European Commission is not responsible for any use that may be made of the information it contains. Parts of this work have received funding from the Austrian Research Promotion Agency (FFG) under grant agreement No. 879881 (EMPAIA) and by the Austrian Science Fund (FWF), Project: P-32554 explainable Artificial Intelligence.
+Parts of this work have received funding from the European Union's Horizon 2020 research and innovation programme under grant agreement No. 857122 (CY-Biobank), No. 824087 (EOSC-Life) and No. 874662 (HEAP). This publication reflects only the authors' view and the European Commission is not responsible for any use that may be made of the information it contains. 
+
+Parts of this work have received funding from the Austrian Research Promotion Agency (FFG) under grant agreement No. 879881 (EMPAIA) and by the Austrian Science Fund (FWF), Project: P-32554 explainable Artificial Intelligence.
+
+<img src="https://github.com/human-centered-ai-lab/PERSONAS/blob/main/BMK_Logo_srgb_EN.png" alt="Logo of the Federal Ministry of the Republic of Austria for Climate Action, Environment, Energy, Mobility, Innovation and Technology " width="100">
+<img src="https://github.com/human-centered-ai-lab/PERSONAS/blob/main/ffg_logo.png" alt="Logo of the Austrian Research Promotion Agency" width="100">
 
 ---
 ---
