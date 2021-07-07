@@ -29,7 +29,7 @@ Parts of this work have received funding from the European Union's Horizon 2020 
 
 Parts of this work have received funding from the Austrian Research Promotion Agency (FFG) under grant agreement No. 879881 (EMPAIA) and by the Austrian Science Fund (FWF), Project: P-32554 explainable Artificial Intelligence.
 
-<img src="https://github.com/human-centered-ai-lab/PERSONAS/blob/main/BMK_Logo_srgb_EN.png" alt="Logo of the Federal Ministry of the Republic of Austria for Climate Action, Environment, Energy, Mobility, Innovation and Technology " width="100"> <img src="https://github.com/human-centered-ai-lab/PERSONAS/blob/main/ffg_logo.png" alt="Logo of the Austrian Research Promotion Agency" width="100">
+<img src="https://github.com/human-centered-ai-lab/PERSONAS/blob/main/BMK_Logo_srgb_EN.png" alt="Logo of the Federal Ministry of the Republic of Austria for Climate Action, Environment, Energy, Mobility, Innovation and Technology " width="130"> <img src="https://github.com/human-centered-ai-lab/PERSONAS/blob/main/ffg_logo.png" alt="Logo of the Austrian Research Promotion Agency" width="100">
 
 ---
 ---
