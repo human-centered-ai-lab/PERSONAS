@@ -23,8 +23,8 @@ All Personas were devided into 3 Groups with each 3 Subcategories:
 
 <br/>
 
-##Pre-Sorted Images
-###Sorted by <b>gender</b> and <b>age</b>
+##Pre-Sorted Images<br/>
+###Sorted by <b>gender</b> and <b>age</b><br/>
 |Male Faces|Female Faces|Diverse Faces|
 |-|-|-|
 |[older men](https://github.com/human-centered-ai-lab/PERSONAS/tree/main/Resources/Faces/GenderMale/AgeHigh)|[older women](https://github.com/human-centered-ai-lab/PERSONAS/tree/main/Resources/Faces/GenderFemale/AgeHigh)|[diverse older persons](https://github.com/human-centered-ai-lab/PERSONAS/tree/main/Resources/Faces/GenderDiverse/AgeHigh)|
@@ -32,7 +32,7 @@ All Personas were devided into 3 Groups with each 3 Subcategories:
 |[young men](https://github.com/human-centered-ai-lab/PERSONAS/tree/main/Resources/Faces/GenderMale/AgeLow)  |[young women](https://github.com/human-centered-ai-lab/PERSONAS/tree/main/Resources/Faces/GenderFemale/AgeLow)  |[diverse young persons](https://github.com/human-centered-ai-lab/PERSONAS/tree/main/Resources/Faces/GenderDiverse/AgeLow)|
 <br/>
 
-###Sorted by <b>appearance</b> and <b>gender</b>
+###Sorted by <b>appearance</b> and <b>gender</b><br/>
 |Casual Appearance|Formal Appearance|Neutral Appearance|
 |-|-|-|
 |[casual men](https://github.com/human-centered-ai-lab/PERSONAS/tree/main/Resources/Faces/AppearanceCasual/GenderMale/)|[formal men](https://github.com/human-centered-ai-lab/PERSONAS/tree/main/Resources/Faces/AppearanceFormal/GenderMale/)|[neutral men](https://github.com/human-centered-ai-lab/PERSONAS/tree/main/Resources/Faces/AppearanceNeutral/GenderMale/)|
@@ -40,7 +40,7 @@ All Personas were devided into 3 Groups with each 3 Subcategories:
 |[casual diverse](https://github.com/human-centered-ai-lab/PERSONAS/tree/main/Resources/Faces/AppearanceCasual/GenderDiverse/)|[formal diverse](https://github.com/human-centered-ai-lab/PERSONAS/tree/main/Resources/Faces/AppearanceFormal/GenderDiverse/)|[neutral diverse](https://github.com/human-centered-ai-lab/PERSONAS/tree/main/Resources/Faces/AppearanceNeutral/GenderDiverse/)|
 <br/>
 
-###Sorted by <b>emotion</b> and <b>gender</b>
+###Sorted by <b>emotion</b> and <b>gender</b><br/>
 |Happy |Serious|Neutral|
 |-|-|-|
 |[happy men](https://github.com/human-centered-ai-lab/PERSONAS/tree/main/Resources/Faces/EmotionHappy/GenderMale/)|[serious men](https://github.com/human-centered-ai-lab/PERSONAS/tree/main/Resources/Faces/EmotionSerious/GenderMale/)|[neutral men](https://github.com/human-centered-ai-lab/PERSONAS/tree/main/Resources/Faces/EmotionNeutral/GenderMale/)|
@@ -48,7 +48,7 @@ All Personas were devided into 3 Groups with each 3 Subcategories:
 |[happy diverse](https://github.com/human-centered-ai-lab/PERSONAS/tree/main/Resources/Faces/EmotionHappy/GenderDiverse/)|[serious diverse](https://github.com/human-centered-ai-lab/PERSONAS/tree/main/Resources/Faces/EmotionSerious/GenderDiverse/)|[neutral diverse](https://github.com/human-centered-ai-lab/PERSONAS/tree/main/Resources/Faces/EmotionNeutral/GenderDiverse/)|
 <br/>
 
-##All Images
+##All Images<br/>
 Depending on your needs, you can also browse through [3,867 faces in high resolution](https://github.com/human-centered-ai-lab/PERSONAS/tree/main/Resources/Faces/AllFacesHighRes)  or [3,867 faces in low resolution](https://github.com/human-centered-ai-lab/PERSONAS/tree/main/Resources/Faces/AllFacesLowRes).<br />
 <i>Filenaming high resolution images:</i> GenderAbbreviation_EmotionAbbreviation_AppearanceAbbreviation_AgeAbbreviation_ID.jpg<br />
 <i>Filenaming low resolution images:</i> GenderAbbreviation_EmotionAbbreviation_AppearanceAbbreviation_AgeAbbreviation_ID_small.jpg<br />
