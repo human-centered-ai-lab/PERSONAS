@@ -20,7 +20,7 @@ Sorted by gender and age, the following faces are available
 
 * Diverse Faces
     * [diverse older persons](https://github.com/human-centered-ai-lab/PERSONAS/tree/main/Resources/Faces/GenderDiverse/AgeHigh)
-    * [diverse medium-aged persons](https://github.com/human-centered-ai-lab/PERSONAS/tree/main/Resources/Faces/GenderDiverse/AgeMidium)
+    * [diverse middle-aged persons](https://github.com/human-centered-ai-lab/PERSONAS/tree/main/Resources/Faces/GenderDiverse/AgeMidium)
     * [diverse young persons](https://github.com/human-centered-ai-lab/PERSONAS/tree/main/Resources/Faces/GenderDiverse/AgeLow)
 
 Depending on your needs, you can also browse through [1000 faces in high resolution](https://github.com/human-centered-ai-lab/PERSONAS/tree/main/Resources/Faces/AllFacesHighRes)  or [1000 faces in low resolution](https://github.com/human-centered-ai-lab/PERSONAS/tree/main/Resources/Faces/AllFacesLowRes).
