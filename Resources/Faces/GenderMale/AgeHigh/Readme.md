@@ -1,1 +1,3 @@
+|   |   |
+|---|---|
 | <img src="https://github.com/human-centered-ai-lab/PERSONAS/blob/main/Resources/Faces/AllFacesLowRes/09760.jpg" width="250" title="hover text"> | <img src="https://github.com/human-centered-ai-lab/PERSONAS/blob/main/Resources/Faces/AllFacesLowRes/09767.jpg" width="250" title="hover text"> | <img src="https://github.com/human-centered-ai-lab/PERSONAS/blob/main/Resources/Faces/AllFacesLowRes/09776.jpg" width="250" title="hover text"> |
