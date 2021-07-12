@@ -49,7 +49,7 @@ All Personas were devided into 3 Groups with each 3 Subcategories:
 <br/>
 
 ## All Images
-Depending on your needs, you can also browse through [3,867 faces in high resolution](https://github.com/human-centered-ai-lab/PERSONAS/tree/main/Resources/Faces/AllFacesHighRes)  or [3,867 faces in low resolution](https://github.com/human-centered-ai-lab/PERSONAS/tree/main/Resources/Faces/AllFacesLowRes).<br />
+Depending on your needs, you can also browse through [4,867 faces in high resolution](https://github.com/human-centered-ai-lab/PERSONAS/tree/main/Resources/Faces/AllFacesHighRes)  or [4,867 faces in low resolution](https://github.com/human-centered-ai-lab/PERSONAS/tree/main/Resources/Faces/AllFacesLowRes).<br />
 <i>Filenaming high resolution images:</i> GenderAbbreviation_EmotionAbbreviation_AppearanceAbbreviation_AgeAbbreviation_ID.jpg<br />
 <i>Filenaming low resolution images:</i> GenderAbbreviation_EmotionAbbreviation_AppearanceAbbreviation_AgeAbbreviation_ID_small.jpg<br />
 
