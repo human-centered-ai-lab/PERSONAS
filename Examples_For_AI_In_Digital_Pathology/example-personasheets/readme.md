@@ -19,3 +19,4 @@ We have used the [templates for persona sheets](https://github.com/human-centere
 
 * [example persona sheets in landscape format](https://github.com/human-centered-ai-lab/PERSONAS/tree/main/Examples_For_AI_In_Digital_Pathology/example-personasheets/Example-Personas-Landscape)
 
+<img src="https://github.com/human-centered-ai-lab/PERSONAS/blob/main/Examples_For_AI_In_Digital_Pathology/example-personasheets/personasheets.png" alt="symbol picture showing a collection of persona sheets" style="max-width:100%;" width="200">
