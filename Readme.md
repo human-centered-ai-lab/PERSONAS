@@ -20,7 +20,7 @@ In this repository we describe our approach for user persona development to supp
 ---
 ---
 # License
-All material is made available under [Creative Commons BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) license by Human-Centered AI Lab / Research and Diagnostics Institute of Pathology at Medical University Graz. You can **use, redistribute, and adapt** the material for **non-commercial purposes**, as long as you give appropriate credit by **citing our paper _Holzinger et al (2022) "Personas for AI: An Open-Source Toolbox"_ doi: 10.1109/ACCESS.2022.3154776**.
+All material is made available under [Creative Commons BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) license by Human-Centered AI Lab / Research and Diagnostics Institute of Pathology at Medical University Graz. You can **use, redistribute, and adapt** the material for **non-commercial purposes**, as long as you give appropriate credit by **citing our paper _Holzinger et al (2022) "Personas for AI: An Open-Source Toolbox"_ [doi: 10.1109/ACCESS.2022.3154776](https://doi.org/10.1109/ACCESS.2022.3154776)**.
 
 ---
 ---
