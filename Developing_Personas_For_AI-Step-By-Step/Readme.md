@@ -8,7 +8,7 @@ In this repository we describe our approach for manual persona development to su
 
 **License information:**  
 We have made available all these material under [Creative Commons BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) license.  
-You can **use, redistribute, and adapt** the material for non-commercial purposes, as long as you give appropriate credit by **citing our paper "Holzinger et al (2022), Personas for AI: An Open-Source Toolbox" [doi: 10.1109/ACCESS.2022.3154776](https://doi.org/10.1109/ACCESS.2022.3154776).**
+You can **use, redistribute, and adapt** the material for non-commercial purposes, as long as you give appropriate credit by **citing our paper:**  _A. Holzinger, M. Kargl, B. Kipperer, P. Regitnig, M. Plass and H. Müller, "Personas for Artificial Intelligence (AI) an Open Source Toolbox", in IEEE Access, vol. 10, pp. 23732-23747, 2022,_ [doi: 10.1109/ACCESS.2022.3154776](https://doi.org/10.1109/ACCESS.2022.3154776).
 
 ---
 ---
@@ -147,7 +147,7 @@ For visualising a persona, do not take a picture of a real user or a picture of 
 <h1 id="resources"> Resources </h1>
 
 * **Development Process of Personas for AI**  
-Paper Holzinger et al (2022) "Personas for AI: An Open-Source Toolbox" [doi: 10.1109/ACCESS.2022.3154776](https://doi.org/10.1109/ACCESS.2022.3154776)
+Paper:  _A. Holzinger, M. Kargl, B. Kipperer, P. Regitnig, M. Plass and H. Müller, "Personas for Artificial Intelligence (AI) an Open Source Toolbox", in IEEE Access, vol. 10, pp. 23732-23747, 2022,_ [doi: 10.1109/ACCESS.2022.3154776](https://doi.org/10.1109/ACCESS.2022.3154776)
 * **Step 1: Identification of (Potential) User Groups**  
 [Impulses for Brainstorming](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/Developing_Personas_For_AI-Step-By-Step/brainstorming-impulses.pdf)  
 [Example: User Groups for AI Application in Digital Pathology](https://github.com/human-centered-ai-lab/PERSONAS/blob/main/Examples_For_AI_In_Digital_Pathology/example_identified-user-groups.pdf)  
@@ -172,5 +172,5 @@ Paper Holzinger et al (2022) "Personas for AI: An Open-Source Toolbox" [doi: 10.
 ---
 ---
 # License
-All material is made available under [Creative Commons BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) license by Human-Centered AI Lab / Research and Diagnostics Institute of Pathology at Medical University Graz. You can **use, redistribute, and adapt** the material for **non-commercial purposes**, as long as you give appropriate credit by **citing our paper _Holzinger et al (2022) "Personas for AI: An Open-Source Toolbox"_ [doi: 10.1109/ACCESS.2022.3154776](https://doi.org/10.1109/ACCESS.2022.3154776)**.
+All material is made available under [Creative Commons BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) license by Human-Centered AI Lab / Research and Diagnostics Institute of Pathology at Medical University Graz. You can **use, redistribute, and adapt** the material for **non-commercial purposes**, as long as you give appropriate credit by **citing our paper:** _ _A. Holzinger, M. Kargl, B. Kipperer, P. Regitnig, M. Plass and H. Müller, "Personas for Artificial Intelligence (AI) an Open Source Toolbox", in IEEE Access, vol. 10, pp. 23732-23747, 2022,_ [doi: 10.1109/ACCESS.2022.3154776](https://doi.org/10.1109/ACCESS.2022.3154776).
 
